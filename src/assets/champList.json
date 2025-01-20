@@ -2,2053 +2,2053 @@
     "champList": [
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c0/Storm_portrait.png/revision/latest?cb=20220211200001",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e1/Storm_featured.png/revision/latest?cb=20150830075659",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e1/Storm_featured.png/revision/latest?cb=20150830075659",
             "Champion": "Storm",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6f/Thor_portrait.png/revision/latest?cb=20150830075957",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3d/Thor_featured.png/revision/latest?cb=20150830080027",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3d/Thor_featured.png/revision/latest?cb=20150830080027",
             "Champion": "Thor",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Rhino_portrait.png/revision/latest?cb=20151118002701",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e0/Rhino_featured.png/revision/latest?cb=20150830075001",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e0/Rhino_featured.png/revision/latest?cb=20150830075001",
             "Champion": "Rhino",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cd/Abomination_portrait.png/revision/latest?cb=20150830054937",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e4/Abomination_featured.png/revision/latest?cb=20150830055147",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e4/Abomination_featured.png/revision/latest?cb=20150830055147",
             "Champion": "Abomination",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/82/Superior_Iron_Man_portrait.png/revision/latest?cb=20150830075813",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/51/Superior_Iron_Man_featured.png/revision/latest?cb=20150830075842",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/51/Superior_Iron_Man_featured.png/revision/latest?cb=20150830075842",
             "Champion": "Superior Iron Man",
-            "Release Date": "February 19, 2015",
+            "ReleaseDate": "February 19, 2015",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/01/Rocket_Raccoon_portrait.png/revision/latest?cb=20150830075026",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Rocket_Raccoon_featured.png/revision/latest?cb=20150718022134",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Rocket_Raccoon_featured.png/revision/latest?cb=20150718022134",
             "Champion": "Rocket Raccoon",
-            "Release Date": "March 5, 2015",
+            "ReleaseDate": "March 5, 2015",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f5/Captain_America_%28WWII%29_portrait.png/revision/latest?cb=20150830061659",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/11/Captain_America_%28WWII%29_featured.png/revision/latest?cb=20170214000413",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/11/Captain_America_%28WWII%29_featured.png/revision/latest?cb=20170214000413",
             "Champion": "Captain America (WWII)",
-            "Release Date": "July 2, 2015",
+            "ReleaseDate": "July 2, 2015",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/47/Void_portrait.png/revision/latest?cb=20180106181633",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a5/Void_featured.png/revision/latest?cb=20180115180945",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a5/Void_featured.png/revision/latest?cb=20180115180945",
             "Champion": "Void",
-            "Release Date": "January 18, 2018",
+            "ReleaseDate": "January 18, 2018",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/90/Sentry_portrait.png/revision/latest?cb=20180106181534",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/87/Sentry_featured.png/revision/latest?cb=20180106181619",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/87/Sentry_featured.png/revision/latest?cb=20180106181619",
             "Champion": "Sentry",
-            "Release Date": "January 4, 2018",
+            "ReleaseDate": "January 4, 2018",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f3/Groot_portrait.png/revision/latest?cb=20151224184045",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d4/Groot_featured.png/revision/latest?cb=20151224184131",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d4/Groot_featured.png/revision/latest?cb=20151224184131",
             "Champion": "Groot",
-            "Release Date": "December 24, 2015",
+            "ReleaseDate": "December 24, 2015",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e0/Spider-Man_%28Miles_Morales%29_portrait.png/revision/latest?cb=20160108034734",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/55/Spider-Man_%28Miles_Morales%29_featured.png/revision/latest?cb=20160108034809",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/55/Spider-Man_%28Miles_Morales%29_featured.png/revision/latest?cb=20160108034809",
             "Champion": "Spider-Man (Miles Morales)",
-            "Release Date": "January 7, 2016",
+            "ReleaseDate": "January 7, 2016",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a0/Cyclops_%28Blue_Team%29_portrait.png/revision/latest?cb=20160122010538",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9e/Cyclops_%28Blue_Team%29_featured.png/revision/latest?cb=20160122010605",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9e/Cyclops_%28Blue_Team%29_featured.png/revision/latest?cb=20160122010605",
             "Champion": "Cyclops (Blue Team)",
-            "Release Date": "January 21, 2016",
+            "ReleaseDate": "January 21, 2016",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9d/Old_Man_Logan_portrait.png/revision/latest?cb=20160205150825",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/41/Old_Man_Logan_featured.png/revision/latest?cb=20160205150941",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/41/Old_Man_Logan_featured.png/revision/latest?cb=20160205150941",
             "Champion": "Old Man Logan",
-            "Release Date": "February 4, 2016",
+            "ReleaseDate": "February 4, 2016",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f8/Venompool_portrait.png/revision/latest?cb=20161117034710",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4b/Venompool_featured.png/revision/latest?cb=20161117034750",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4b/Venompool_featured.png/revision/latest?cb=20161117034750",
             "Champion": "Venompool",
-            "Release Date": "February 18, 2016",
+            "ReleaseDate": "February 18, 2016",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/28/She-Hulk_portrait.png/revision/latest?cb=20241029142645",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/74/She-Hulk_featured.png/revision/latest?cb=20241029142735",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/74/She-Hulk_featured.png/revision/latest?cb=20241029142735",
             "Champion": "She-Hulk",
-            "Release Date": "March 3, 2016",
+            "ReleaseDate": "March 3, 2016",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9e/Wolverine_%28X-23%29_portrait.png/revision/latest?cb=20160317223849",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/06/Wolverine_%28X-23%29_featured.png/revision/latest?cb=20160317223924",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/06/Wolverine_%28X-23%29_featured.png/revision/latest?cb=20160317223924",
             "Champion": "Wolverine (X-23)",
-            "Release Date": "March 17, 2016",
+            "ReleaseDate": "March 17, 2016",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b5/Ms._Marvel_%28Kamala_Khan%29_portrait.png/revision/latest?cb=20160331143709",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/ac/Ms._Marvel_%28Kamala_Khan%29_featured.png/revision/latest?cb=20160331143719",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/ac/Ms._Marvel_%28Kamala_Khan%29_featured.png/revision/latest?cb=20160331143719",
             "Champion": "Ms. Marvel (Kamala Khan)",
-            "Release Date": "March 31, 2016",
+            "ReleaseDate": "March 31, 2016",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/68/Agent_Venom_portrait.png/revision/latest?cb=20160415213207",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/38/Agent_Venom_featured.png/revision/latest?cb=20160415213235",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/38/Agent_Venom_featured.png/revision/latest?cb=20160415213235",
             "Champion": "Agent Venom",
-            "Release Date": "April 14, 2016",
+            "ReleaseDate": "April 14, 2016",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cc/Red_Hulk_portrait.png/revision/latest?cb=20160428201849",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6a/Red_Hulk_featured.png/revision/latest?cb=20160428201922",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6a/Red_Hulk_featured.png/revision/latest?cb=20160428201922",
             "Champion": "Red Hulk",
-            "Release Date": "April 28, 2016",
+            "ReleaseDate": "April 28, 2016",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1d/Crossbones_portrait.png/revision/latest?cb=20160512202654",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2e/Crossbones_featured.png/revision/latest?cb=20160512202743",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2e/Crossbones_featured.png/revision/latest?cb=20160512202743",
             "Champion": "Crossbones",
-            "Release Date": "May 12, 2016",
+            "ReleaseDate": "May 12, 2016",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/95/Black_Panther_%28Civil_War%29_portrait.png/revision/latest?cb=20160526170829",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e4/Black_Panther_%28Civil_War%29_featured.png/revision/latest?cb=20160618222521",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e4/Black_Panther_%28Civil_War%29_featured.png/revision/latest?cb=20160618222521",
             "Champion": "Black Panther (Civil War)",
-            "Release Date": "May 26, 2016",
+            "ReleaseDate": "May 26, 2016",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a7/Falcon_portrait.png/revision/latest?cb=20160609195120",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9b/Falcon_featured.png/revision/latest?cb=20160618222601",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9b/Falcon_featured.png/revision/latest?cb=20160618222601",
             "Champion": "Falcon",
-            "Release Date": "June 9, 2016",
+            "ReleaseDate": "June 9, 2016",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Civil_Warrior_portrait.png/revision/latest?cb=20161210205544",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cf/Civil_Warrior_featured.png/revision/latest?cb=20161210205626",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cf/Civil_Warrior_featured.png/revision/latest?cb=20161210205626",
             "Champion": "Civil Warrior",
-            "Release Date": "June 30, 2016",
+            "ReleaseDate": "June 30, 2016",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0e/Nightcrawler_portrait.png/revision/latest?cb=20160707214629",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5b/Nightcrawler_featured.png/revision/latest?cb=20160714232013",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5b/Nightcrawler_featured.png/revision/latest?cb=20160714232013",
             "Champion": "Nightcrawler",
-            "Release Date": "July 7, 2016",
+            "ReleaseDate": "July 7, 2016",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b4/Iron_Fist_%28Immortal%29_portrait.png/revision/latest?cb=20151121222555",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/79/Iron_Fist_%28Immortal%29_featured.png/revision/latest?cb=20151121223935",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/79/Iron_Fist_%28Immortal%29_featured.png/revision/latest?cb=20151121223935",
             "Champion": "Iron Fist (Immortal)",
-            "Release Date": "August 20, 2015",
+            "ReleaseDate": "August 20, 2015",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/21/Loki_portrait.png/revision/latest?cb=20160804212646",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3d/Loki_featured.png/revision/latest?cb=20160804212731",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3d/Loki_featured.png/revision/latest?cb=20160804212731",
             "Champion": "Loki",
-            "Release Date": "August 4, 2016",
+            "ReleaseDate": "August 4, 2016",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/de/Gambit_portrait.png/revision/latest?cb=20160818205115",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0a/Gambit_featured.png/revision/latest?cb=20160818205145",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0a/Gambit_featured.png/revision/latest?cb=20160818205145",
             "Champion": "Gambit",
-            "Release Date": "August 18, 2016",
+            "ReleaseDate": "August 18, 2016",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a2/Karnak_portrait.png/revision/latest?cb=20160901205842",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/24/Karnak_featured.png/revision/latest?cb=20160903023258",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/24/Karnak_featured.png/revision/latest?cb=20160903023258",
             "Champion": "Karnak",
-            "Release Date": "September 1, 2016",
+            "ReleaseDate": "September 1, 2016",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d7/Rogue_portrait.png/revision/latest?cb=20160917030600",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f5/Rogue_featured.png/revision/latest?cb=20160917030654",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f5/Rogue_featured.png/revision/latest?cb=20160917030654",
             "Champion": "Rogue",
-            "Release Date": "September 15, 2016",
+            "ReleaseDate": "September 15, 2016",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f4/Quake_portrait.png/revision/latest?cb=20160920215011",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f9/Quake_featured.png/revision/latest?cb=20160920215041",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f9/Quake_featured.png/revision/latest?cb=20160920215041",
             "Champion": "Quake",
-            "Release Date": "September 29, 2016",
+            "ReleaseDate": "September 29, 2016",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a7/Ultron_%28Classic%29_portrait.png/revision/latest?cb=20161009164857",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Ultron_%28Classic%29_featured.png/revision/latest?cb=20161009164926",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Ultron_%28Classic%29_featured.png/revision/latest?cb=20161009164926",
             "Champion": "Ultron (Classic)",
-            "Release Date": "August 17, 2016",
+            "ReleaseDate": "August 17, 2016",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e7/Phoenix_portrait.png/revision/latest?cb=20161023023434",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b5/Phoenix_featured.png/revision/latest?cb=20161027002307",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b5/Phoenix_featured.png/revision/latest?cb=20161027002307",
             "Champion": "Phoenix",
-            "Release Date": "October 13, 2016",
+            "ReleaseDate": "October 13, 2016",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/bc/Ghost_Rider_portrait.png/revision/latest?cb=20161029193227",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e5/Ghost_Rider_featured.png/revision/latest?cb=20161029193253",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e5/Ghost_Rider_featured.png/revision/latest?cb=20161029193253",
             "Champion": "Ghost Rider",
-            "Release Date": "October 27, 2016",
+            "ReleaseDate": "October 27, 2016",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4b/Mordo_portrait.png/revision/latest?cb=20161116020128",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b2/Mordo_featured.png/revision/latest?cb=20161116020254",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b2/Mordo_featured.png/revision/latest?cb=20161116020254",
             "Champion": "Mordo",
-            "Release Date": "November 10, 2016",
+            "ReleaseDate": "November 10, 2016",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e5/Doctor_Voodoo_portrait.png/revision/latest?cb=20161125010645",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/dd/Doctor_Voodoo_featured.png/revision/latest?cb=20161125010736",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/dd/Doctor_Voodoo_featured.png/revision/latest?cb=20161125010736",
             "Champion": "Doctor Voodoo",
-            "Release Date": "November 24, 2016",
+            "ReleaseDate": "November 24, 2016",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/da/Hyperion_portrait.png/revision/latest?cb=20161208231528",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/17/Hyperion_featured.png/revision/latest?cb=20161208231601",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/17/Hyperion_featured.png/revision/latest?cb=20161208231601",
             "Champion": "Hyperion",
-            "Release Date": "December 8, 2016",
+            "ReleaseDate": "December 8, 2016",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cd/Howard_the_Duck_portrait.png/revision/latest?cb=20161222205206",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/51/Howard_the_Duck_featured.png/revision/latest?cb=20170108041426",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/51/Howard_the_Duck_featured.png/revision/latest?cb=20170108041426",
             "Champion": "Howard the Duck",
-            "Release Date": "December 22, 2016",
+            "ReleaseDate": "December 22, 2016",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/bd/Gwenpool_portrait.png/revision/latest?cb=20170108045032",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4b/Gwenpool_featured.png/revision/latest?cb=20170108045100",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4b/Gwenpool_featured.png/revision/latest?cb=20170108045100",
             "Champion": "Gwenpool",
-            "Release Date": "January 5, 2017",
+            "ReleaseDate": "January 5, 2017",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/49/Cable_portrait.png/revision/latest?cb=20170121235311",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Cable_featured.png/revision/latest?cb=20170213234026",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Cable_featured.png/revision/latest?cb=20170213234026",
             "Champion": "Cable",
-            "Release Date": "January 19, 2017",
+            "ReleaseDate": "January 19, 2017",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/df/The_Hood_portrait.png/revision/latest?cb=20180922202726",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4b/The_Hood_featured.png/revision/latest?cb=20170212211510",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4b/The_Hood_featured.png/revision/latest?cb=20170212211510",
             "Champion": "The Hood",
-            "Release Date": "February 2, 2017",
+            "ReleaseDate": "February 2, 2017",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c9/Iceman_portrait.png/revision/latest?cb=20170508052441",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a2/Iceman_featured.png/revision/latest?cb=20170508054438",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a2/Iceman_featured.png/revision/latest?cb=20170508054438",
             "Champion": "Iceman",
-            "Release Date": "March 30, 2017",
+            "ReleaseDate": "March 30, 2017",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7f/Dormammu_portrait.png/revision/latest?cb=20180916134734",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Dormammu_featured.png/revision/latest?cb=20170508054830",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Dormammu_featured.png/revision/latest?cb=20170508054830",
             "Champion": "Dormammu",
-            "Release Date": "February 16, 2017",
+            "ReleaseDate": "February 16, 2017",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6d/Archangel_portrait.png/revision/latest?cb=20170508054551",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fd/Archangel_featured.png/revision/latest?cb=20170508054619",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fd/Archangel_featured.png/revision/latest?cb=20170508054619",
             "Champion": "Archangel",
-            "Release Date": "March 2, 2017",
+            "ReleaseDate": "March 2, 2017",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a9/Spider-Man_%28Stark_Enhanced%29_portrait.png/revision/latest?cb=20170722100121",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/10/Spider-Man_%28Stark_Enhanced%29_featured.png/revision/latest?cb=20170722100146",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/10/Spider-Man_%28Stark_Enhanced%29_featured.png/revision/latest?cb=20170722100146",
             "Champion": "Spider-Man (Stark Enhanced)",
-            "Release Date": "July 6, 2017",
+            "ReleaseDate": "July 6, 2017",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/90/Vulture_portrait.png/revision/latest?cb=20170722100226",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c0/Vulture_featured.png/revision/latest?cb=20170722100258",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c0/Vulture_featured.png/revision/latest?cb=20170722100258",
             "Champion": "Vulture",
-            "Release Date": "July 20, 2017",
+            "ReleaseDate": "July 20, 2017",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5b/Nebula_portrait.png/revision/latest?cb=20170709021529",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/28/Nebula_featured.png/revision/latest?cb=20170709021553",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/28/Nebula_featured.png/revision/latest?cb=20170709021553",
             "Champion": "Nebula",
-            "Release Date": "May 11, 2017",
+            "ReleaseDate": "May 11, 2017",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2b/Angela_portrait.png/revision/latest?cb=20170508052305",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c8/Angela_featured.png/revision/latest?cb=20170508054143",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c8/Angela_featured.png/revision/latest?cb=20170508054143",
             "Champion": "Angela",
-            "Release Date": "April 13, 2017",
+            "ReleaseDate": "April 13, 2017",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/86/Carnage_portrait.png/revision/latest?cb=20230824234332",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/dd/Carnage_featured.png/revision/latest?cb=20170709021708",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/dd/Carnage_featured.png/revision/latest?cb=20170709021708",
             "Champion": "Carnage",
-            "Release Date": "June 8, 2017",
+            "ReleaseDate": "June 8, 2017",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/16/King_Groot_portrait.png/revision/latest?cb=20170709021739",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0c/King_Groot_featured.png/revision/latest?cb=20170709021803",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0c/King_Groot_featured.png/revision/latest?cb=20170709021803",
             "Champion": "King Groot",
-            "Release Date": "April 27, 2017",
+            "ReleaseDate": "April 27, 2017",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2e/Medusa_portrait.png/revision/latest?cb=20230824235527",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e5/Medusa_featured.png/revision/latest?cb=20170903160758",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e5/Medusa_featured.png/revision/latest?cb=20170903160758",
             "Champion": "Medusa",
-            "Release Date": "September 14, 2017",
+            "ReleaseDate": "September 14, 2017",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/48/Morningstar_portrait.png/revision/latest?cb=20230825000642",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/91/Morningstar_featured.png/revision/latest?cb=20171021151056",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/91/Morningstar_featured.png/revision/latest?cb=20171021151056",
             "Champion": "Morningstar",
-            "Release Date": "October 12, 2017",
+            "ReleaseDate": "October 12, 2017",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/91/M.O.D.O.K._portrait.png/revision/latest?cb=20171209233126",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/86/M.O.D.O.K._featured.png/revision/latest?cb=20180106184031",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/86/M.O.D.O.K._featured.png/revision/latest?cb=20180106184031",
             "Champion": "M.O.D.O.K.",
-            "Release Date": "December 21, 2017",
+            "ReleaseDate": "December 21, 2017",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8a/Mephisto_portrait.png/revision/latest?cb=20230824221353",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c4/Mephisto_featured.png/revision/latest?cb=20170929021427",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c4/Mephisto_featured.png/revision/latest?cb=20170929021427",
             "Champion": "Mephisto",
-            "Release Date": "September 28, 2017",
+            "ReleaseDate": "September 28, 2017",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d8/Psylocke_portrait.png/revision/latest?cb=20170508054518",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3b/Psylocke_featured.png/revision/latest?cb=20170627011435",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3b/Psylocke_featured.png/revision/latest?cb=20170627011435",
             "Champion": "Psylocke",
-            "Release Date": "March 16, 2017",
+            "ReleaseDate": "March 16, 2017",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a3/Kingpin_portrait.png/revision/latest?cb=20170901041448",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4a/Kingpin_featured.png/revision/latest?cb=20170903034635",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4a/Kingpin_featured.png/revision/latest?cb=20170903034635",
             "Champion": "Kingpin",
-            "Release Date": "August 31, 2017",
+            "ReleaseDate": "August 31, 2017",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/57/Hela_portrait.png/revision/latest?cb=20230824231750",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6c/Hela_featured.png/revision/latest?cb=20171202184321",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6c/Hela_featured.png/revision/latest?cb=20171202184321",
             "Champion": "Hela",
-            "Release Date": "November 23, 2017",
+            "ReleaseDate": "November 23, 2017",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2a/Thor_%28Ragnarok%29_portrait.png/revision/latest?cb=20171105182658",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/56/Thor_%28Ragnarok%29_featured.png/revision/latest?cb=20171113202341",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/56/Thor_%28Ragnarok%29_featured.png/revision/latest?cb=20171113202341",
             "Champion": "Thor (Ragnarok)",
-            "Release Date": "November 9, 2017",
+            "ReleaseDate": "November 9, 2017",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b2/Hulk_%28Ragnarok%29_portrait.png/revision/latest?cb=20180401181436",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/97/Hulk_%28Ragnarok%29_featured.png/revision/latest?cb=20180212153508",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/97/Hulk_%28Ragnarok%29_featured.png/revision/latest?cb=20180212153508",
             "Champion": "Hulk (Ragnarok)",
-            "Release Date": "February 1, 2018",
+            "ReleaseDate": "February 1, 2018",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/44/Sabretooth_portrait.png/revision/latest?cb=20180329224644",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e0/Sabretooth_featured.png/revision/latest?cb=20180319000616",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e0/Sabretooth_featured.png/revision/latest?cb=20180319000616",
             "Champion": "Sabretooth",
-            "Release Date": "March 29, 2018",
+            "ReleaseDate": "March 29, 2018",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/ed/Doctor_Octopus_portrait.png/revision/latest?cb=20230824223005",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5a/Doctor_Octopus_featured.png/revision/latest?cb=20170827200658",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5a/Doctor_Octopus_featured.png/revision/latest?cb=20170827200658",
             "Champion": "Doctor Octopus",
-            "Release Date": "August 17, 2017",
+            "ReleaseDate": "August 17, 2017",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cb/Bishop_portrait.png/revision/latest?cb=20180318235045",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/56/Bishop_featured.png/revision/latest?cb=20180318235307",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/56/Bishop_featured.png/revision/latest?cb=20180318235307",
             "Champion": "Bishop",
-            "Release Date": "March 14, 2018",
+            "ReleaseDate": "March 14, 2018",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/55/Taskmaster_portrait.png/revision/latest?cb=20230824221201",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/42/Taskmaster_featured.png/revision/latest?cb=20171209232124",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/42/Taskmaster_featured.png/revision/latest?cb=20171209232124",
             "Champion": "Taskmaster",
-            "Release Date": "December 7, 2017",
+            "ReleaseDate": "December 7, 2017",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/67/Yondu_portrait.png/revision/latest?cb=20170709021435",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/64/Yondu_featured.png/revision/latest?cb=20170709021501",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/64/Yondu_featured.png/revision/latest?cb=20170709021501",
             "Champion": "Yondu",
-            "Release Date": "May 25, 2017",
+            "ReleaseDate": "May 25, 2017",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/db/Captain_America_%28Infinity_War%29_portrait.png/revision/latest?cb=20230824232134",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/db/Captain_America_%28Infinity_War%29_featured.png/revision/latest?cb=20180804182041",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/db/Captain_America_%28Infinity_War%29_featured.png/revision/latest?cb=20180804182041",
             "Champion": "Captain America (Infinity War)",
-            "Release Date": "May 10, 2018",
+            "ReleaseDate": "May 10, 2018",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6a/Green_Goblin_portrait.png/revision/latest?cb=20170804041726",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/65/Green_Goblin_featured.png/revision/latest?cb=20170804041807",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/65/Green_Goblin_featured.png/revision/latest?cb=20170804041807",
             "Champion": "Green Goblin",
-            "Release Date": "August 3, 2017",
+            "ReleaseDate": "August 3, 2017",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Yellowjacket_portrait.png/revision/latest?cb=20150830080630",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6b/Yellowjacket_featured.png/revision/latest?cb=20150731033645",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6b/Yellowjacket_featured.png/revision/latest?cb=20150731033645",
             "Champion": "Yellowjacket",
-            "Release Date": "July 30, 2015",
+            "ReleaseDate": "July 30, 2015",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d6/Ant-Man_portrait.png/revision/latest?cb=20150830055922",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4d/Ant-Man_featured.png/revision/latest?cb=20150716213914",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4d/Ant-Man_featured.png/revision/latest?cb=20150716213914",
             "Champion": "Ant-Man",
-            "Release Date": "July 9, 2015",
+            "ReleaseDate": "July 9, 2015",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/aa/Domino_portrait.png/revision/latest?cb=20180630174513",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fc/Domino_featured.png/revision/latest?cb=20180729195357",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fc/Domino_featured.png/revision/latest?cb=20180729195357",
             "Champion": "Domino",
-            "Release Date": "June 7, 2018",
+            "ReleaseDate": "June 7, 2018",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Deadpool_portrait.png/revision/latest?cb=20240902210725",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9b/Deadpool_featured.png/revision/latest?cb=20240902210912",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9b/Deadpool_featured.png/revision/latest?cb=20240902210912",
             "Champion": "Deadpool",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/56/Colossus_portrait.png/revision/latest?cb=20150830065018",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/00/Colossus_featured.png/revision/latest?cb=20150830065044",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/00/Colossus_featured.png/revision/latest?cb=20150830065044",
             "Champion": "Colossus",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Cyclops_%28New_Xavier_School%29_portrait.png/revision/latest?cb=20150830065142",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f2/Cyclops_%28New_Xavier_School%29_featured.png/revision/latest?cb=20150823034638",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f2/Cyclops_%28New_Xavier_School%29_featured.png/revision/latest?cb=20150823034638",
             "Champion": "Cyclops (New Xavier School)",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b4/Wolverine_portrait.png/revision/latest?cb=20150830080538",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5b/Wolverine_featured.png/revision/latest?cb=20150830080604",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5b/Wolverine_featured.png/revision/latest?cb=20150830080604",
             "Champion": "Wolverine",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9b/Magneto_portrait.png/revision/latest?cb=20150830074633",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5c/Magneto_featured.png/revision/latest?cb=20170214002454",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5c/Magneto_featured.png/revision/latest?cb=20170214002454",
             "Champion": "Magneto",
-            "Release Date": "June 18, 2015",
+            "ReleaseDate": "June 18, 2015",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cb/Deadpool_%28X-Force%29_portrait.png/revision/latest?cb=20151118000159",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/39/Deadpool_%28X-Force%29_featured.png/revision/latest?cb=20151121223824",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/39/Deadpool_%28X-Force%29_featured.png/revision/latest?cb=20151121223824",
             "Champion": "Deadpool (X-Force)",
-            "Release Date": "September 17, 2015",
+            "ReleaseDate": "September 17, 2015",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/aa/Goldpool_portrait.png/revision/latest?cb=20230824223319",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/40/Goldpool_featured.png/revision/latest?cb=20180729195336",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/40/Goldpool_featured.png/revision/latest?cb=20180729195336",
             "Champion": "Goldpool",
-            "Release Date": "June 6, 2018",
+            "ReleaseDate": "June 6, 2018",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fd/Magik_portrait.png/revision/latest?cb=20150830074516",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/18/Magik_featured.png/revision/latest?cb=20150830074547",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/18/Magik_featured.png/revision/latest?cb=20150830074547",
             "Champion": "Magik",
-            "Release Date": "January 22, 2015",
+            "ReleaseDate": "January 22, 2015",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3b/Blade_portrait.png/revision/latest?cb=20170929021506",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e4/Blade_featured.png/revision/latest?cb=20171027205312",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e4/Blade_featured.png/revision/latest?cb=20171027205312",
             "Champion": "Blade",
-            "Release Date": "October 26, 2017",
+            "ReleaseDate": "October 26, 2017",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b9/Winter_Soldier_portrait.png/revision/latest?cb=20150830080418",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9b/Winter_Soldier_featured.png/revision/latest?cb=20150830080508",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9b/Winter_Soldier_featured.png/revision/latest?cb=20150830080508",
             "Champion": "Winter Soldier",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/58/Black_Panther_portrait.png/revision/latest?cb=20230824212448",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/81/Black_Panther_featured.png/revision/latest?cb=20221110205903",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/81/Black_Panther_featured.png/revision/latest?cb=20221110205903",
             "Champion": "Black Panther",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b6/Daredevil_%28Classic%29_portrait.png/revision/latest?cb=20150830065242",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/08/Daredevil_%28Classic%29_featured.png/revision/latest?cb=20150729005207",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/08/Daredevil_%28Classic%29_featured.png/revision/latest?cb=20150729005207",
             "Champion": "Daredevil (Classic)",
-            "Release Date": "April 16, 2015",
+            "ReleaseDate": "April 16, 2015",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/87/Moon_Knight_portrait.png/revision/latest?cb=20151118002943",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6e/Moon_Knight_featured.png/revision/latest?cb=20151121224140",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6e/Moon_Knight_featured.png/revision/latest?cb=20151121224140",
             "Champion": "Moon Knight",
-            "Release Date": "September 24, 2015",
+            "ReleaseDate": "September 24, 2015",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/eb/Elektra_portrait.png/revision/latest?cb=20150830065710",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/32/Elektra_featured.png/revision/latest?cb=20170214001743",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/32/Elektra_featured.png/revision/latest?cb=20170214001743",
             "Champion": "Elektra",
-            "Release Date": "October 8, 2015",
+            "ReleaseDate": "October 8, 2015",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1f/Wasp_portrait.png/revision/latest?cb=20180708105402",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/16/Wasp_featured.png/revision/latest?cb=20180729195205",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/16/Wasp_featured.png/revision/latest?cb=20180729195205",
             "Champion": "Wasp",
-            "Release Date": "July 5, 2018",
+            "ReleaseDate": "July 5, 2018",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a1/Captain_America_portrait.png/revision/latest?cb=20220105224719",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1a/Captain_America_featured.png/revision/latest?cb=20170213235821",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1a/Captain_America_featured.png/revision/latest?cb=20170213235821",
             "Champion": "Captain America",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9c/Electro_portrait.png/revision/latest?cb=20161107000842",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c4/Electro_featured.png/revision/latest?cb=20170214001141",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c4/Electro_featured.png/revision/latest?cb=20170214001141",
             "Champion": "Electro",
-            "Release Date": "February 6, 2015",
+            "ReleaseDate": "February 6, 2015",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c5/Joe_Fixit_portrait.png/revision/latest?cb=20151118003053",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Joe_Fixit_featured.png/revision/latest?cb=20151121224023",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Joe_Fixit_featured.png/revision/latest?cb=20151121224023",
             "Champion": "Joe Fixit",
-            "Release Date": "October 15, 2015",
+            "ReleaseDate": "October 15, 2015",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a7/Killmonger_portrait.png/revision/latest?cb=20180218072638",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1e/Killmonger_featured.png/revision/latest?cb=20180218072756",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1e/Killmonger_featured.png/revision/latest?cb=20180218072756",
             "Champion": "Killmonger",
-            "Release Date": "February 15, 2018",
+            "ReleaseDate": "February 15, 2018",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/ff/Black_Bolt_portrait.png/revision/latest?cb=20150830060831",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/43/Black_Bolt_featured.png/revision/latest?cb=20150830061307",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/43/Black_Bolt_featured.png/revision/latest?cb=20150830061307",
             "Champion": "Black Bolt",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8e/Gamora_portrait.png/revision/latest?cb=20150830065747",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Gamora_featured.png/revision/latest?cb=20150830072340",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Gamora_featured.png/revision/latest?cb=20150830072340",
             "Champion": "Gamora",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1d/Ronan_portrait.png/revision/latest?cb=20150830075114",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8a/Ronan_featured.png/revision/latest?cb=20150830075138",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8a/Ronan_featured.png/revision/latest?cb=20150830075138",
             "Champion": "Ronan",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/74/Thanos_portrait.png/revision/latest?cb=20150830174115",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Thanos_featured.png/revision/latest?cb=20160901205044",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Thanos_featured.png/revision/latest?cb=20160901205044",
             "Champion": "Thanos",
-            "Release Date": "August 17, 2016",
+            "ReleaseDate": "August 17, 2016",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/ec/Ms._Marvel_portrait.png/revision/latest?cb=20150830074710",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/62/Ms._Marvel_featured.png/revision/latest?cb=20150731034329",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/62/Ms._Marvel_featured.png/revision/latest?cb=20150731034329",
             "Champion": "Ms. Marvel",
-            "Release Date": "April 2, 2015",
+            "ReleaseDate": "April 2, 2015",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6e/Spider-Man_%28Symbiote%29_portrait.png/revision/latest?cb=20150912165012",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/81/Spider-Man_%28Symbiote%29_featured.png/revision/latest?cb=20150912165047",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/81/Spider-Man_%28Symbiote%29_featured.png/revision/latest?cb=20150912165047",
             "Champion": "Spider-Man (Symbiote)",
-            "Release Date": "September 10, 2015",
+            "ReleaseDate": "September 10, 2015",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Iron_Fist_portrait.png/revision/latest?cb=20150825223034",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/ca/Iron_Fist_featured.png/revision/latest?cb=20150825223053",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/ca/Iron_Fist_featured.png/revision/latest?cb=20150825223053",
             "Champion": "Iron Fist",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3c/Unstoppable_Colossus_portrait.png/revision/latest?cb=20150830080204",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d9/Unstoppable_Colossus_featured.png/revision/latest?cb=20150727181704",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d9/Unstoppable_Colossus_featured.png/revision/latest?cb=20150727181704",
             "Champion": "Unstoppable Colossus",
-            "Release Date": "February 25, 2015",
+            "ReleaseDate": "February 25, 2015",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/76/Guillotine_portrait.png/revision/latest?cb=20151118003034",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/98/Guillotine_featured.png/revision/latest?cb=20151121223905",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/98/Guillotine_featured.png/revision/latest?cb=20151121223905",
             "Champion": "Guillotine",
-            "Release Date": "October 22, 2015",
+            "ReleaseDate": "October 22, 2015",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0f/Thor_%28Jane_Foster%29_portrait.png/revision/latest?cb=20220708201655",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/21/Thor_%28Jane_Foster%29_featured.png/revision/latest?cb=20151209122546",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/21/Thor_%28Jane_Foster%29_featured.png/revision/latest?cb=20151209122546",
             "Champion": "Thor (Jane Foster)",
-            "Release Date": "December 10, 2015",
+            "ReleaseDate": "December 10, 2015",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c0/Iron_Man_portrait.png/revision/latest?cb=20230907090031",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9f/Iron_Man_featured.png/revision/latest?cb=20231208154054",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9f/Iron_Man_featured.png/revision/latest?cb=20231208154054",
             "Champion": "Iron Man",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/78/Vision_portrait.png/revision/latest?cb=20150830080239",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9a/Vision_featured.png/revision/latest?cb=20150830080316",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9a/Vision_featured.png/revision/latest?cb=20150830080316",
             "Champion": "Vision",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9a/Star-Lord_portrait.png/revision/latest?cb=20150830075532",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d5/Star-Lord_featured.png/revision/latest?cb=20150830075556",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d5/Star-Lord_featured.png/revision/latest?cb=20150830075556",
             "Champion": "Star-Lord",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/41/Ultron_portrait.png/revision/latest?cb=20150830080132",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b2/Ultron_featured.png/revision/latest?cb=20150719232959",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b2/Ultron_featured.png/revision/latest?cb=20150719232959",
             "Champion": "Ultron",
-            "Release Date": "June 4, 2015",
+            "ReleaseDate": "June 4, 2015",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e3/Hulkbuster_portrait.png/revision/latest?cb=20150830074153",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/39/Hulkbuster_featured.png/revision/latest?cb=20150723185203",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/39/Hulkbuster_featured.png/revision/latest?cb=20150723185203",
             "Champion": "Hulkbuster",
-            "Release Date": "May 21, 2015",
+            "ReleaseDate": "May 21, 2015",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/07/Iron_Patriot_portrait.png/revision/latest?cb=20150830074335",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3f/Iron_Patriot_featured.png/revision/latest?cb=20150727205816",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3f/Iron_Patriot_featured.png/revision/latest?cb=20150727205816",
             "Champion": "Iron Patriot",
-            "Release Date": "July 2, 2015",
+            "ReleaseDate": "July 2, 2015",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Vision_%28Age_of_Ultron%29_portrait.png/revision/latest?cb=20150830075913",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b6/Vision_%28Age_of_Ultron%29_featured.png/revision/latest?cb=20150731034249",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b6/Vision_%28Age_of_Ultron%29_featured.png/revision/latest?cb=20150731034249",
             "Champion": "Vision (Age of Ultron)",
-            "Release Date": "May 14, 2015",
+            "ReleaseDate": "May 14, 2015",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f4/War_Machine_portrait.png/revision/latest?cb=20150830080348",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/99/War_Machine_featured.png/revision/latest?cb=20150812031418",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/99/War_Machine_featured.png/revision/latest?cb=20150812031418",
             "Champion": "War Machine",
-            "Release Date": "August 13, 2015",
+            "ReleaseDate": "August 13, 2015",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/15/Ghost_portrait.png/revision/latest?cb=20230824222814",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4d/Ghost_featured.png/revision/latest?cb=20180729195225",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4d/Ghost_featured.png/revision/latest?cb=20180729195225",
             "Champion": "Ghost",
-            "Release Date": "July 19, 2018",
+            "ReleaseDate": "July 19, 2018",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4d/Sentinel_portrait.png/revision/latest?cb=20180401181725",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fd/Sentinel_featured.png/revision/latest?cb=20180304100505",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fd/Sentinel_featured.png/revision/latest?cb=20180304100505",
             "Champion": "Sentinel",
-            "Release Date": "March 1, 2018",
+            "ReleaseDate": "March 1, 2018",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/55/Masacre_portrait.png/revision/latest?cb=20230824233103",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/38/Masacre_featured.png/revision/latest?cb=20180729195440",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/38/Masacre_featured.png/revision/latest?cb=20180729195440",
             "Champion": "Masacre",
-            "Release Date": "June 21, 2018",
+            "ReleaseDate": "June 21, 2018",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Iron_Man_%28Infinity_War%29_portrait.png/revision/latest?cb=20180808000823",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/89/Iron_Man_%28Infinity_War%29_featured.png/revision/latest?cb=20180808000916",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/89/Iron_Man_%28Infinity_War%29_featured.png/revision/latest?cb=20180808000916",
             "Champion": "Iron Man (Infinity War)",
-            "Release Date": "May 24, 2018",
+            "ReleaseDate": "May 24, 2018",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/95/Corvus_Glaive_portrait.png/revision/latest?cb=20230824214509",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/09/Corvus_Glaive_featured.png/revision/latest?cb=20180609121401",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/09/Corvus_Glaive_featured.png/revision/latest?cb=20180609121401",
             "Champion": "Corvus Glaive",
-            "Release Date": "April 26, 2018",
+            "ReleaseDate": "April 26, 2018",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/13/Proxima_Midnight_portrait.png/revision/latest?cb=20230824233930",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b6/Proxima_Midnight_featured.png/revision/latest?cb=20180609121843",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b6/Proxima_Midnight_featured.png/revision/latest?cb=20180609121843",
             "Champion": "Proxima Midnight",
-            "Release Date": "April 12, 2018",
+            "ReleaseDate": "April 12, 2018",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/dc/Wolverine_%28Weapon_X%29_portrait.png/revision/latest?cb=20170214002124",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Wolverine_%28Weapon_X%29_featured.png/revision/latest?cb=20200601191347",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Wolverine_%28Weapon_X%29_featured.png/revision/latest?cb=20200601191347",
             "Champion": "Wolverine (Weapon X)",
-            "Release Date": "March 11, 2020",
+            "ReleaseDate": "March 11, 2020",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/aa/Heimdall_portrait.png/revision/latest?cb=20230825004302",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/18/Heimdall_featured.png/revision/latest?cb=20180801021723",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/18/Heimdall_featured.png/revision/latest?cb=20180801021723",
             "Champion": "Heimdall",
-            "Release Date": "August 16, 2018",
+            "ReleaseDate": "August 16, 2018",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/ba/Korg_portrait.png/revision/latest?cb=20230824210824",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c7/Korg_featured.png/revision/latest?cb=20180801023641",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c7/Korg_featured.png/revision/latest?cb=20180801023641",
             "Champion": "Korg",
-            "Release Date": "August 30, 2018",
+            "ReleaseDate": "August 30, 2018",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/89/Red_Skull_portrait.png/revision/latest?cb=20230824211219",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d1/Red_Skull_featured.png/revision/latest?cb=20180801025108",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d1/Red_Skull_featured.png/revision/latest?cb=20180801025108",
             "Champion": "Red Skull",
-            "Release Date": "August 2, 2018",
+            "ReleaseDate": "August 2, 2018",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/29/Omega_Red_portrait.png/revision/latest?cb=20180906162026",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4e/Omega_Red_featured.png/revision/latest?cb=20180908161440",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4e/Omega_Red_featured.png/revision/latest?cb=20180908161440",
             "Champion": "Omega Red",
-            "Release Date": "September 13, 2018",
+            "ReleaseDate": "September 13, 2018",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/20/Venom_the_Duck_portrait.png/revision/latest?cb=20181118094556",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/78/Venom_the_Duck_featured.png/revision/latest?cb=20181027202908",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/78/Venom_the_Duck_featured.png/revision/latest?cb=20181027202908",
             "Champion": "Venom the Duck",
-            "Release Date": "October 16, 2018",
+            "ReleaseDate": "October 16, 2018",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d1/Symbiote_Supreme_portrait.png/revision/latest?cb=20230824214700",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9f/Symbiote_Supreme_featured.png/revision/latest?cb=20181027203116",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9f/Symbiote_Supreme_featured.png/revision/latest?cb=20181027203116",
             "Champion": "Symbiote Supreme",
-            "Release Date": "October 11, 2018",
+            "ReleaseDate": "October 11, 2018",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6b/%C3%86gon_portrait.png/revision/latest?cb=20230824213702",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/ec/%C3%86gon_featured.png/revision/latest?cb=20181124102737",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/ec/%C3%86gon_featured.png/revision/latest?cb=20181124102737",
             "Champion": "Ægon",
-            "Release Date": "November 22, 2018",
+            "ReleaseDate": "November 22, 2018",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5a/The_Champion_portrait.png/revision/latest?cb=20230824211525",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/80/The_Champion_featured.png/revision/latest?cb=20181118100404",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/80/The_Champion_featured.png/revision/latest?cb=20181118100404",
             "Champion": "The Champion",
-            "Release Date": "November 8, 2018",
+            "ReleaseDate": "November 8, 2018",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/61/Summoned_Symbioid_portrait.png/revision/latest?cb=20181020060637",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/44/Summoned_Symbioid_featured.png/revision/latest?cb=20181020060653",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/44/Summoned_Symbioid_featured.png/revision/latest?cb=20181020060653",
             "Champion": "Summoned Symbioid",
-            "Release Date": "October 2, 2018",
+            "ReleaseDate": "October 2, 2018",
             "Class": "Combined"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Thing_portrait.png/revision/latest?cb=20190111151819",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Thing_featured.png/revision/latest?cb=20190111152605",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Thing_featured.png/revision/latest?cb=20190111152605",
             "Champion": "Thing",
-            "Release Date": "January 10, 2019",
+            "ReleaseDate": "January 10, 2019",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/ea/Diablo_portrait.png/revision/latest?cb=20230824223141",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/94/Diablo_featured.png/revision/latest?cb=20190111153156",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/94/Diablo_featured.png/revision/latest?cb=20190111153156",
             "Champion": "Diablo",
-            "Release Date": "January 24, 2019",
+            "ReleaseDate": "January 24, 2019",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c7/Captain_Marvel_%28Classic%29_portrait.png/revision/latest?cb=20150830061726",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/08/Captain_Marvel_%28Classic%29_featured.png/revision/latest?cb=20150830061756",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/08/Captain_Marvel_%28Classic%29_featured.png/revision/latest?cb=20150830061756",
             "Champion": "Captain Marvel (Classic)",
-            "Release Date": "January 8, 2015",
+            "ReleaseDate": "January 8, 2015",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9a/Captain_Marvel_portrait.png/revision/latest?cb=20230825004507",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/92/Captain_Marvel_featured.png/revision/latest?cb=20190315094257",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/92/Captain_Marvel_featured.png/revision/latest?cb=20190315094257",
             "Champion": "Captain Marvel",
-            "Release Date": "March 7, 2019",
+            "ReleaseDate": "March 7, 2019",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4b/Venom_portrait.png/revision/latest?cb=20241029142409",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/35/Venom_featured.png/revision/latest?cb=20241029142522",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/35/Venom_featured.png/revision/latest?cb=20241029142522",
             "Champion": "Venom",
-            "Release Date": "October 29, 2015",
+            "ReleaseDate": "October 29, 2015",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0f/Ronin_portrait.png/revision/latest?cb=20190424222933",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/98/Ronin_featured.png/revision/latest?cb=20190424222922",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/98/Ronin_featured.png/revision/latest?cb=20190424222922",
             "Champion": "Ronin",
-            "Release Date": "May 2, 2019",
+            "ReleaseDate": "May 2, 2019",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/63/Cull_Obsidian_portrait.png/revision/latest?cb=20230824231246",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7e/Cull_Obsidian_featured.png/revision/latest?cb=20190424222826",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7e/Cull_Obsidian_featured.png/revision/latest?cb=20190424222826",
             "Champion": "Cull Obsidian",
-            "Release Date": "May 16, 2019",
+            "ReleaseDate": "May 16, 2019",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/99/Ebony_Maw_portrait.png/revision/latest?cb=20230824212927",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/be/Ebony_Maw_featured.png/revision/latest?cb=20190424222846",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/be/Ebony_Maw_featured.png/revision/latest?cb=20190424222846",
             "Champion": "Ebony Maw",
-            "Release Date": "May 31, 2019",
+            "ReleaseDate": "May 31, 2019",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7e/Human_Torch_portrait.png/revision/latest?cb=20230824235955",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e8/Human_Torch_featured.png/revision/latest?cb=20190405185448",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e8/Human_Torch_featured.png/revision/latest?cb=20190405185448",
             "Champion": "Human Torch",
-            "Release Date": "April 18, 2019",
+            "ReleaseDate": "April 18, 2019",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8a/Annihilus_portrait.png/revision/latest?cb=20190405185404",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c6/Annihilus_featured.png/revision/latest?cb=20190405185420",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c6/Annihilus_featured.png/revision/latest?cb=20190405185420",
             "Champion": "Annihilus",
-            "Release Date": "April 4, 2019",
+            "ReleaseDate": "April 4, 2019",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0e/Nick_Fury_portrait.png/revision/latest?cb=20190315094359",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Nick_Fury_featured.png/revision/latest?cb=20190315094344",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Nick_Fury_featured.png/revision/latest?cb=20190315094344",
             "Champion": "Nick Fury",
-            "Release Date": "March 12, 2019",
+            "ReleaseDate": "March 12, 2019",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/32/Havok_portrait.png/revision/latest?cb=20230824211753",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/24/Havok_featured.png/revision/latest?cb=20190211191138",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/24/Havok_featured.png/revision/latest?cb=20190211191138",
             "Champion": "Havok",
-            "Release Date": "February 7, 2019",
+            "ReleaseDate": "February 7, 2019",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/29/Mister_Sinister_portrait.png/revision/latest?cb=20230824233517",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c2/Mister_Sinister_featured.png/revision/latest?cb=20190315094329",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c2/Mister_Sinister_featured.png/revision/latest?cb=20190315094329",
             "Champion": "Mister Sinister",
-            "Release Date": "February 11, 2019",
+            "ReleaseDate": "February 11, 2019",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fe/Punisher_2099_portrait.png/revision/latest?cb=20170709021327",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/ae/Punisher_2099_featured.png/revision/latest?cb=20170709021351",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/ae/Punisher_2099_featured.png/revision/latest?cb=20170709021351",
             "Champion": "Punisher 2099",
-            "Release Date": "June 29, 2017",
+            "ReleaseDate": "June 29, 2017",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6f/Invisible_Woman_portrait.png/revision/latest?cb=20190607071428",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f7/Invisible_Woman_featured.png/revision/latest?cb=20190607071445",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f7/Invisible_Woman_featured.png/revision/latest?cb=20190607071445",
             "Champion": "Invisible Woman",
-            "Release Date": "June 27, 2019",
+            "ReleaseDate": "June 27, 2019",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a4/Namor_portrait.png/revision/latest?cb=20190607071149",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Namor_featured.png/revision/latest?cb=20190607071139",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Namor_featured.png/revision/latest?cb=20190607071139",
             "Champion": "Namor",
-            "Release Date": "June 13, 2019",
+            "ReleaseDate": "June 13, 2019",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/13/Mysterio_portrait.png/revision/latest?cb=20230824233236",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/02/Mysterio_featured.png/revision/latest?cb=20190628054105",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/02/Mysterio_featured.png/revision/latest?cb=20190628054105",
             "Champion": "Mysterio",
-            "Release Date": "July 25, 2019",
+            "ReleaseDate": "July 25, 2019",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Spider-Man_%28Stealth_Suit%29_portrait.png/revision/latest?cb=20230824214827",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c7/Spider-Man_%28Stealth_Suit%29_featured.png/revision/latest?cb=20190628054014",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c7/Spider-Man_%28Stealth_Suit%29_featured.png/revision/latest?cb=20190628054014",
             "Champion": "Spider-Man (Stealth Suit)",
-            "Release Date": "July 11, 2019",
+            "ReleaseDate": "July 11, 2019",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0b/Spider-Man_%28Classic%29_portrait.png/revision/latest?cb=20230824215359",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a3/Spider-Man_%28Classic%29_featured.png/revision/latest?cb=20230410205209",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a3/Spider-Man_%28Classic%29_featured.png/revision/latest?cb=20230410205209",
             "Champion": "Spider-Man (Classic)",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/62/Sunspot_portrait.png/revision/latest?cb=20230824213059",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/aa/Sunspot_featured.png/revision/latest?cb=20190807141624",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/aa/Sunspot_featured.png/revision/latest?cb=20190807141624",
             "Champion": "Sunspot",
-            "Release Date": "August 8, 2019",
+            "ReleaseDate": "August 8, 2019",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b5/Warlock_portrait.png/revision/latest?cb=20190807141643",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/68/Warlock_featured.png/revision/latest?cb=20190807141724",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/68/Warlock_featured.png/revision/latest?cb=20190807141724",
             "Champion": "Warlock",
-            "Release Date": "August 22, 2019",
+            "ReleaseDate": "August 22, 2019",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c9/Vision_%28Aarkus%29_portrait.png/revision/latest?cb=20231115105013",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/73/Vision_%28Aarkus%29_featured.png/revision/latest?cb=20190911111017",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/73/Vision_%28Aarkus%29_featured.png/revision/latest?cb=20190911111017",
             "Champion": "Vision (Aarkus)",
-            "Release Date": "September 19, 2019",
+            "ReleaseDate": "September 19, 2019",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f5/Emma_Frost_portrait.png/revision/latest?cb=20180906162316",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/db/Emma_Frost_featured.png/revision/latest?cb=20180908161508",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/db/Emma_Frost_featured.png/revision/latest?cb=20180908161508",
             "Champion": "Emma Frost",
-            "Release Date": "September 27, 2018",
+            "ReleaseDate": "September 27, 2018",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c5/Beast_portrait.png/revision/latest?cb=20160721192517",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/be/Beast_featured.png/revision/latest?cb=20160802190623",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/be/Beast_featured.png/revision/latest?cb=20160802190623",
             "Champion": "Beast",
-            "Release Date": "July 21, 2016",
+            "ReleaseDate": "July 21, 2016",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b3/Black_Widow_%28Claire_Voyant%29_portrait.png/revision/latest?cb=20190911110954",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/12/Black_Widow_%28Claire_Voyant%29_featured.png/revision/latest?cb=20190911110942",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/12/Black_Widow_%28Claire_Voyant%29_featured.png/revision/latest?cb=20190911110942",
             "Champion": "Black Widow (Claire Voyant)",
-            "Release Date": "September 5, 2019",
+            "ReleaseDate": "September 5, 2019",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e7/Doctor_Doom_portrait.png/revision/latest?cb=20230824214057",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5f/Doctor_Doom_featured.png/revision/latest?cb=20191105081335",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5f/Doctor_Doom_featured.png/revision/latest?cb=20191105081335",
             "Champion": "Doctor Doom",
-            "Release Date": "November 14, 2019",
+            "ReleaseDate": "November 14, 2019",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/50/Elsa_Bloodstone_portrait.png/revision/latest?cb=20230824215039",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/11/Elsa_Bloodstone_featured.png/revision/latest?cb=20191003073429",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/11/Elsa_Bloodstone_featured.png/revision/latest?cb=20191003073429",
             "Champion": "Elsa Bloodstone",
-            "Release Date": "October 3, 2019",
+            "ReleaseDate": "October 3, 2019",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/73/Man-Thing_portrait.png/revision/latest?cb=20191003073839",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0a/Man-Thing_featured.png/revision/latest?cb=20191003073517",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0a/Man-Thing_featured.png/revision/latest?cb=20191003073517",
             "Champion": "Man-Thing",
-            "Release Date": "October 17, 2019",
+            "ReleaseDate": "October 17, 2019",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5a/Mister_Fantastic_portrait.png/revision/latest?cb=20230824213304",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/42/Mister_Fantastic_featured.png/revision/latest?cb=20191105081250",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/42/Mister_Fantastic_featured.png/revision/latest?cb=20191105081250",
             "Champion": "Mister Fantastic",
-            "Release Date": "November 28, 2019",
+            "ReleaseDate": "November 28, 2019",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8a/Guillotine_2099_portrait.png/revision/latest?cb=20230824211019",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fc/Guillotine_2099_featured.png/revision/latest?cb=20191003073455",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fc/Guillotine_2099_featured.png/revision/latest?cb=20191003073455",
             "Champion": "Guillotine 2099",
-            "Release Date": "October 31, 2019",
+            "ReleaseDate": "October 31, 2019",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d7/Silver_Surfer_portrait.png/revision/latest?cb=20231115105221",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fe/Silver_Surfer_featured.png/revision/latest?cb=20191205132053",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fe/Silver_Surfer_featured.png/revision/latest?cb=20191205132053",
             "Champion": "Silver Surfer",
-            "Release Date": "December 12, 2019",
+            "ReleaseDate": "December 12, 2019",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/ad/Squirrel_Girl_portrait.png/revision/latest?cb=20230824235013",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/15/Squirrel_Girl_featured.png/revision/latest?cb=20200110150144",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/15/Squirrel_Girl_featured.png/revision/latest?cb=20200110150144",
             "Champion": "Squirrel Girl",
-            "Release Date": "January 9, 2020",
+            "ReleaseDate": "January 9, 2020",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/89/Nova_portrait.png/revision/latest?cb=20230824214253",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9e/Nova_featured.png/revision/latest?cb=20200110150119",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9e/Nova_featured.png/revision/latest?cb=20200110150119",
             "Champion": "Nova",
-            "Release Date": "January 23, 2020",
+            "ReleaseDate": "January 23, 2020",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/05/Longshot_portrait.png/revision/latest?cb=20230825000532",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/68/Longshot_featured.png/revision/latest?cb=20200204104829",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/68/Longshot_featured.png/revision/latest?cb=20200204104829",
             "Champion": "Longshot",
-            "Release Date": "February 13, 2020",
+            "ReleaseDate": "February 13, 2020",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/85/Mojo_portrait.png/revision/latest?cb=20200204105013",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7c/Mojo_featured.png/revision/latest?cb=20200204104945",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7c/Mojo_featured.png/revision/latest?cb=20200204104945",
             "Champion": "Mojo",
-            "Release Date": "February 27, 2020",
+            "ReleaseDate": "February 27, 2020",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cf/Mole_Man_portrait.png/revision/latest?cb=20230824235426",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c4/Mole_Man_featured.png/revision/latest?cb=20200305114727",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c4/Mole_Man_featured.png/revision/latest?cb=20200305114727",
             "Champion": "Mole Man",
-            "Release Date": "March 12, 2020",
+            "ReleaseDate": "March 12, 2020",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/20/Terrax_portrait.png/revision/latest?cb=20230824222417",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/08/Terrax_featured.png/revision/latest?cb=20200305114700",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/08/Terrax_featured.png/revision/latest?cb=20200305114700",
             "Champion": "Terrax",
-            "Release Date": "March 26, 2020",
+            "ReleaseDate": "March 26, 2020",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/15/Storm_%28Pyramid_X%29_portrait.png/revision/latest?cb=20230824232854",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/ff/Storm_%28Pyramid_X%29_featured.png/revision/latest?cb=20200331153415",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/ff/Storm_%28Pyramid_X%29_featured.png/revision/latest?cb=20200331153415",
             "Champion": "Storm (Pyramid X)",
-            "Release Date": "April 23, 2020",
+            "ReleaseDate": "April 23, 2020",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/12/Sorcerer_Supreme_portrait.png/revision/latest?cb=20200331153426",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/45/Sorcerer_Supreme_featured.png/revision/latest?cb=20200331153438",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/45/Sorcerer_Supreme_featured.png/revision/latest?cb=20200331153438",
             "Champion": "Sorcerer Supreme",
-            "Release Date": "April 9, 2020",
+            "ReleaseDate": "April 9, 2020",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b8/Red_Guardian_portrait.png/revision/latest?cb=20230824234530",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Red_Guardian_featured.png/revision/latest?cb=20200428083445",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Red_Guardian_featured.png/revision/latest?cb=20200428083445",
             "Champion": "Red Guardian",
-            "Release Date": "May 28, 2020",
+            "ReleaseDate": "May 28, 2020",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/70/Black_Widow_%28Deadly_Origin%29_portrait.png/revision/latest?cb=20230825013524",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4d/Black_Widow_%28Deadly_Origin%29_featured.png/revision/latest?cb=20200428083510",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4d/Black_Widow_%28Deadly_Origin%29_featured.png/revision/latest?cb=20200428083510",
             "Champion": "Black Widow (Deadly Origin)",
-            "Release Date": "May 14, 2020",
+            "ReleaseDate": "May 14, 2020",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/20/Tigra_portrait.png/revision/latest?cb=20230824232331",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2c/Tigra_featured.png/revision/latest?cb=20200602111944",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2c/Tigra_featured.png/revision/latest?cb=20200602111944",
             "Champion": "Tigra",
-            "Release Date": "June 11, 2020",
+            "ReleaseDate": "June 11, 2020",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a9/Hit-Monkey_portrait.png/revision/latest?cb=20200602111957",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0d/Hit-Monkey_featured.png/revision/latest?cb=20200602112010",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0d/Hit-Monkey_featured.png/revision/latest?cb=20200602112010",
             "Champion": "Hit-Monkey",
-            "Release Date": "June 25, 2020",
+            "ReleaseDate": "June 25, 2020",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1c/Guardian_portrait.png/revision/latest?cb=20230825001120",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7c/Guardian_featured.png/revision/latest?cb=20200701204440",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7c/Guardian_featured.png/revision/latest?cb=20200701204440",
             "Champion": "Guardian",
-            "Release Date": "July 9, 2020",
+            "ReleaseDate": "July 9, 2020",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e6/Sasquatch_portrait.png/revision/latest?cb=20230824213940",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9e/Sasquatch_featured.png/revision/latest?cb=20200701204503",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9e/Sasquatch_featured.png/revision/latest?cb=20200701204503",
             "Champion": "Sasquatch",
-            "Release Date": "July 23, 2020",
+            "ReleaseDate": "July 23, 2020",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4e/Dragon_Man_portrait.png/revision/latest?cb=20230825005128",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/18/Dragon_Man_featured.png/revision/latest?cb=20200811105353",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/18/Dragon_Man_featured.png/revision/latest?cb=20200811105353",
             "Champion": "Dragon Man",
-            "Release Date": "August 27, 2020",
+            "ReleaseDate": "August 27, 2020",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2b/Platinumpool_portrait.png/revision/latest?cb=20200428083522",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/ae/Platinumpool_featured.png/revision/latest?cb=20200428083533",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/ae/Platinumpool_featured.png/revision/latest?cb=20200428083533",
             "Champion": "Platinumpool",
-            "Release Date": "September 2, 2020",
+            "ReleaseDate": "September 2, 2020",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4c/Air-Walker_portrait.png/revision/latest?cb=20200811105407",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fc/Air-Walker_featured.png/revision/latest?cb=20200811105427",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fc/Air-Walker_featured.png/revision/latest?cb=20200811105427",
             "Champion": "Air-Walker",
-            "Release Date": "August 13, 2020",
+            "ReleaseDate": "August 13, 2020",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/64/Magneto_%28House_of_X%29_portrait.png/revision/latest?cb=20150830054856",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/91/Magneto_%28House_of_X%29_featured.png/revision/latest?cb=20150830043831",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/91/Magneto_%28House_of_X%29_featured.png/revision/latest?cb=20150830043831",
             "Champion": "Magneto (House of X)",
-            "Release Date": "August 27, 2015",
+            "ReleaseDate": "August 27, 2015",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/dc/Professor_X_portrait.png/revision/latest?cb=20230824222600",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/31/Professor_X_featured.png/revision/latest?cb=20200901193036",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/31/Professor_X_featured.png/revision/latest?cb=20200901193036",
             "Champion": "Professor X",
-            "Release Date": "September 10, 2020",
+            "ReleaseDate": "September 10, 2020",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/01/Apocalypse_portrait.png/revision/latest?cb=20200901193052",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/44/Apocalypse_featured.png/revision/latest?cb=20200901193104",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/44/Apocalypse_featured.png/revision/latest?cb=20200901193104",
             "Champion": "Apocalypse",
-            "Release Date": "September 24, 2020",
+            "ReleaseDate": "September 24, 2020",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f2/Cosmic_Ghost_Rider_portrait.png/revision/latest?cb=20201005205101",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/af/Cosmic_Ghost_Rider_featured.png/revision/latest?cb=20201005205048",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/af/Cosmic_Ghost_Rider_featured.png/revision/latest?cb=20201005205048",
             "Champion": "Cosmic Ghost Rider",
-            "Release Date": "October 22, 2020",
+            "ReleaseDate": "October 22, 2020",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/eb/Red_Goblin_portrait.png/revision/latest?cb=20201005205130",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a9/Red_Goblin_featured.png/revision/latest?cb=20201005205116",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a9/Red_Goblin_featured.png/revision/latest?cb=20201005205116",
             "Champion": "Red Goblin",
-            "Release Date": "October 8, 2020",
+            "ReleaseDate": "October 8, 2020",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/85/Hulk_%28Immortal%29_portrait.png/revision/latest?cb=20201105205432",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/22/Hulk_%28Immortal%29_featured.png/revision/latest?cb=20201105205418",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/22/Hulk_%28Immortal%29_featured.png/revision/latest?cb=20201105205418",
             "Champion": "Hulk (Immortal)",
-            "Release Date": "November 12, 2020",
+            "ReleaseDate": "November 12, 2020",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/25/Abomination_%28Immortal%29_portrait.png/revision/latest?cb=20230824220929",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/50/Abomination_%28Immortal%29_featured.png/revision/latest?cb=20201105205346",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/50/Abomination_%28Immortal%29_featured.png/revision/latest?cb=20201105205346",
             "Champion": "Abomination (Immortal)",
-            "Release Date": "November 26, 2020",
+            "ReleaseDate": "November 26, 2020",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/78/Daredevil_%28Hell%27s_Kitchen%29_portrait.png/revision/latest?cb=20151120152135",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/83/Daredevil_%28Hell%27s_Kitchen%29_featured.png/revision/latest?cb=20151120152147",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/83/Daredevil_%28Hell%27s_Kitchen%29_featured.png/revision/latest?cb=20151120152147",
             "Champion": "Daredevil (Hell's Kitchen)",
-            "Release Date": "November 19, 2015",
+            "ReleaseDate": "November 19, 2015",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3c/Scarlet_Witch_%28Classic%29_portrait.png/revision/latest?cb=20150830075311",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cf/Scarlet_Witch_%28Classic%29_featured.png/revision/latest?cb=20150830075346",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cf/Scarlet_Witch_%28Classic%29_featured.png/revision/latest?cb=20150830075346",
             "Champion": "Scarlet Witch (Classic)",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/54/Spider-Ham_portrait.png/revision/latest?cb=20230824215544",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/50/Spider-Ham_featured.png/revision/latest?cb=20201206230026",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/50/Spider-Ham_featured.png/revision/latest?cb=20201206230026",
             "Champion": "Spider-Ham",
-            "Release Date": "December 10, 2020",
+            "ReleaseDate": "December 10, 2020",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6a/Jubilee_portrait.png/revision/latest?cb=20230824234159",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/24/Jubilee_featured.png/revision/latest?cb=20210110211627",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/24/Jubilee_featured.png/revision/latest?cb=20210110211627",
             "Champion": "Jubilee",
-            "Release Date": "January 14, 2021",
+            "ReleaseDate": "January 14, 2021",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/17/Stryfe_portrait.png/revision/latest?cb=20210110211705",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7a/Stryfe_featured.png/revision/latest?cb=20210110211654",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7a/Stryfe_featured.png/revision/latest?cb=20210110211654",
             "Champion": "Stryfe",
-            "Release Date": "January 28, 2021",
+            "ReleaseDate": "January 28, 2021",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b0/Jessica_Jones_portrait.png/revision/latest?cb=20221209145832",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/34/Jessica_Jones_featured.png/revision/latest?cb=20170917015619",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/34/Jessica_Jones_featured.png/revision/latest?cb=20170917015619",
             "Champion": "Jessica Jones",
-            "Release Date": "December 22, 2022",
+            "ReleaseDate": "December 22, 2022",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/03/Psycho-Man_portrait.png/revision/latest?cb=20230824220816",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/06/Psycho-Man_featured.png/revision/latest?cb=20210201180359",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/06/Psycho-Man_featured.png/revision/latest?cb=20210201180359",
             "Champion": "Psycho-Man",
-            "Release Date": "February 11, 2021",
+            "ReleaseDate": "February 11, 2021",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/56/Super-Skrull_portrait.png/revision/latest?cb=20210201180429",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/54/Super-Skrull_featured.png/revision/latest?cb=20210201180412",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/54/Super-Skrull_featured.png/revision/latest?cb=20210201180412",
             "Champion": "Super-Skrull",
-            "Release Date": "February 25, 2021",
+            "ReleaseDate": "February 25, 2021",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/63/Mangog_portrait.png/revision/latest?cb=20210307223254",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/37/Mangog_featured.png/revision/latest?cb=20210307223243",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/37/Mangog_featured.png/revision/latest?cb=20210307223243",
             "Champion": "Mangog",
-            "Release Date": "March 11, 2021",
+            "ReleaseDate": "March 11, 2021",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/47/Odin_portrait.png/revision/latest?cb=20210307223313",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4f/Odin_featured.png/revision/latest?cb=20210307223304",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4f/Odin_featured.png/revision/latest?cb=20210307223304",
             "Champion": "Odin",
-            "Release Date": "March 25, 2021",
+            "ReleaseDate": "March 25, 2021",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/00/Scarlet_Witch_portrait.png/revision/latest?cb=20201222212449",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4f/Scarlet_Witch_featured.png/revision/latest?cb=20201222212844",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4f/Scarlet_Witch_featured.png/revision/latest?cb=20201222212844",
             "Champion": "Scarlet Witch",
-            "Release Date": "June 7, 2021",
+            "ReleaseDate": "June 7, 2021",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/65/Jabari_Panther_portrait.png/revision/latest?cb=20210406135800",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/de/Jabari_Panther_featured.png/revision/latest?cb=20210406135743",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/de/Jabari_Panther_featured.png/revision/latest?cb=20210406135743",
             "Champion": "Jabari Panther",
-            "Release Date": "April 15, 2021",
+            "ReleaseDate": "April 15, 2021",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e8/Silver_Centurion_portrait.png/revision/latest?cb=20210406135822",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6c/Silver_Centurion_featured.png/revision/latest?cb=20210406135812",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6c/Silver_Centurion_featured.png/revision/latest?cb=20210406135812",
             "Champion": "Silver Centurion",
-            "Release Date": "April 29, 2021",
+            "ReleaseDate": "April 29, 2021",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/40/Shang-Chi_portrait.png/revision/latest?cb=20210508193308",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/12/Shang-Chi_featured.png/revision/latest?cb=20210508193253",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/12/Shang-Chi_featured.png/revision/latest?cb=20210508193253",
             "Champion": "Shang-Chi",
-            "Release Date": "May 13, 2021",
+            "ReleaseDate": "May 13, 2021",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f4/Mister_Negative_portrait.png/revision/latest?cb=20210508193242",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0f/Mister_Negative_featured.png/revision/latest?cb=20210508193229",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0f/Mister_Negative_featured.png/revision/latest?cb=20210508193229",
             "Champion": "Mister Negative",
-            "Release Date": "May 27, 2021",
+            "ReleaseDate": "May 27, 2021",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/bb/Purgatory_portrait.png/revision/latest?cb=20210531201227",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/32/Purgatory_featured.png/revision/latest?cb=20210531201215",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/32/Purgatory_featured.png/revision/latest?cb=20210531201215",
             "Champion": "Purgatory",
-            "Release Date": "June 10, 2021",
+            "ReleaseDate": "June 10, 2021",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/10/The_Overseer_portrait.png/revision/latest?cb=20210531201310",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d0/The_Overseer_featured.png/revision/latest?cb=20210531201238",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d0/The_Overseer_featured.png/revision/latest?cb=20210531201238",
             "Champion": "The Overseer",
-            "Release Date": "June 24, 2021",
+            "ReleaseDate": "June 24, 2021",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/95/America_Chavez_portrait.png/revision/latest?cb=20210710214158",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/af/America_Chavez_featured.png/revision/latest?cb=20210710214212",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/af/America_Chavez_featured.png/revision/latest?cb=20210710214212",
             "Champion": "America Chavez",
-            "Release Date": "July 29, 2021",
+            "ReleaseDate": "July 29, 2021",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/06/Hercules_portrait.png/revision/latest?cb=20210710214126",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b9/Hercules_featured.png/revision/latest?cb=20210710214143",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b9/Hercules_featured.png/revision/latest?cb=20210710214143",
             "Champion": "Hercules",
-            "Release Date": "July 15, 2021",
+            "ReleaseDate": "July 15, 2021",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/81/Spider-Man_2099_portrait.png/revision/latest?cb=20210814015916",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6f/Spider-Man_2099_featured.png/revision/latest?cb=20210824110325",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6f/Spider-Man_2099_featured.png/revision/latest?cb=20210824110325",
             "Champion": "Spider-Man 2099",
-            "Release Date": "August 12, 2021",
+            "ReleaseDate": "August 12, 2021",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/ed/Peni_Parker_portrait.png/revision/latest?cb=20210814015831",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/14/Peni_Parker_featured.png/revision/latest?cb=20210824110312",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/14/Peni_Parker_featured.png/revision/latest?cb=20210824110312",
             "Champion": "Peni Parker",
-            "Release Date": "August 26, 2021",
+            "ReleaseDate": "August 26, 2021",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/11/Nimrod_portrait.png/revision/latest?cb=20210831173538",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/38/Nimrod_featured.png/revision/latest?cb=20210831173527",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/38/Nimrod_featured.png/revision/latest?cb=20210831173527",
             "Champion": "Nimrod",
-            "Release Date": "September 23, 2021",
+            "ReleaseDate": "September 23, 2021",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/05/Kitty_Pryde_portrait.png/revision/latest?cb=20210831173518",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6e/Kitty_Pryde_featured.png/revision/latest?cb=20210831173506",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6e/Kitty_Pryde_featured.png/revision/latest?cb=20210831173506",
             "Champion": "Kitty Pryde",
-            "Release Date": "September 9, 2021",
+            "ReleaseDate": "September 9, 2021",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/41/Summoned_Symbiote_portrait.png/revision/latest?cb=20211007220607",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d9/Summoned_Symbiote_featured.png/revision/latest?cb=20211007220623",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d9/Summoned_Symbiote_featured.png/revision/latest?cb=20211007220623",
             "Champion": "Summoned Symbiote",
-            "Release Date": "October 6, 2021",
+            "ReleaseDate": "October 6, 2021",
             "Class": "Combined"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6a/Knull_portrait.png/revision/latest?cb=20211007220538",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6f/Knull_featured.png/revision/latest?cb=20211007220552",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6f/Knull_featured.png/revision/latest?cb=20211007220552",
             "Champion": "Knull",
-            "Release Date": "October 28, 2021",
+            "ReleaseDate": "October 28, 2021",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/98/Anti-Venom_portrait.png/revision/latest?cb=20211007220510",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/de/Anti-Venom_featured.png/revision/latest?cb=20211007220523",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/de/Anti-Venom_featured.png/revision/latest?cb=20211007220523",
             "Champion": "Anti-Venom",
-            "Release Date": "October 14, 2021",
+            "ReleaseDate": "October 14, 2021",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Sersi_portrait.png/revision/latest?cb=20230824235703",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/32/Sersi_featured.png/revision/latest?cb=20211102195145",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/32/Sersi_featured.png/revision/latest?cb=20211102195145",
             "Champion": "Sersi",
-            "Release Date": "November 11, 2021",
+            "ReleaseDate": "November 11, 2021",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/31/Ikaris_portrait.png/revision/latest?cb=20230824213459",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/06/Ikaris_featured.png/revision/latest?cb=20211102195124",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/06/Ikaris_featured.png/revision/latest?cb=20211102195124",
             "Champion": "Ikaris",
-            "Release Date": "November 25, 2021",
+            "ReleaseDate": "November 25, 2021",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9c/Kraven_portrait.png/revision/latest?cb=20211205203446",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/26/Kraven_featured.png/revision/latest?cb=20211205203459",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/26/Kraven_featured.png/revision/latest?cb=20211205203459",
             "Champion": "Kraven",
-            "Release Date": "December 9, 2021",
+            "ReleaseDate": "December 9, 2021",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8f/Toad_portrait.png/revision/latest?cb=20220105220416",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/48/Toad_featured.png/revision/latest?cb=20220105220402",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/48/Toad_featured.png/revision/latest?cb=20220105220402",
             "Champion": "Toad",
-            "Release Date": "January 13, 2022",
+            "ReleaseDate": "January 13, 2022",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c9/Sauron_portrait.png/revision/latest?cb=20220105220349",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/16/Sauron_featured.png/revision/latest?cb=20220105220307",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/16/Sauron_featured.png/revision/latest?cb=20220105220307",
             "Champion": "Sauron",
-            "Release Date": "January 27, 2022",
+            "ReleaseDate": "January 27, 2022",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/21/Captain_America_%28Sam_Wilson%29_portrait.png/revision/latest?cb=20220211200752",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/81/Captain_America_%28Sam_Wilson%29_featured.png/revision/latest?cb=20220211200805",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/81/Captain_America_%28Sam_Wilson%29_featured.png/revision/latest?cb=20220211200805",
             "Champion": "Captain America (Sam Wilson)",
-            "Release Date": "February 18, 2022",
+            "ReleaseDate": "February 18, 2022",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e3/Misty_Knight_portrait.png/revision/latest?cb=20220211200835",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/35/Misty_Knight_featured.png/revision/latest?cb=20220211200843",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/35/Misty_Knight_featured.png/revision/latest?cb=20220211200843",
             "Champion": "Misty Knight",
-            "Release Date": "March 3, 2022",
+            "ReleaseDate": "March 3, 2022",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3f/Captain_Britain_portrait.png/revision/latest?cb=20220317220656",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7a/Captain_Britain_featured.png/revision/latest?cb=20220317220707",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7a/Captain_Britain_featured.png/revision/latest?cb=20220317220707",
             "Champion": "Captain Britain",
-            "Release Date": "March 17, 2022",
+            "ReleaseDate": "March 17, 2022",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Omega_Sentinel_portrait.png/revision/latest?cb=20220317220633",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7c/Omega_Sentinel_featured.png/revision/latest?cb=20220317220617",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7c/Omega_Sentinel_featured.png/revision/latest?cb=20220317220617",
             "Champion": "Omega Sentinel",
-            "Release Date": "March 31, 2022",
+            "ReleaseDate": "March 31, 2022",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b5/Black_Cat_portrait.png/revision/latest?cb=20220408213410",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a4/Black_Cat_featured.png/revision/latest?cb=20220408213359",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a4/Black_Cat_featured.png/revision/latest?cb=20220408213359",
             "Champion": "Black Cat",
-            "Release Date": "April 14, 2022",
+            "ReleaseDate": "April 14, 2022",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/54/Scorpion_portrait.png/revision/latest?cb=20230824212744",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/55/Scorpion_featured.png/revision/latest?cb=20220408213425",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/55/Scorpion_featured.png/revision/latest?cb=20220408213425",
             "Champion": "Scorpion",
-            "Release Date": "April 28, 2022",
+            "ReleaseDate": "April 28, 2022",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f1/Wong_portrait.png/revision/latest?cb=20220505220612",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Wong_featured.png/revision/latest?cb=20220505220633",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Wong_featured.png/revision/latest?cb=20220505220633",
             "Champion": "Wong",
-            "Release Date": "May 26, 2022",
+            "ReleaseDate": "May 26, 2022",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/43/Rintrah_portrait.png/revision/latest?cb=20220505220651",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f4/Rintrah_featured.png/revision/latest?cb=20220505220708",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f4/Rintrah_featured.png/revision/latest?cb=20220505220708",
             "Champion": "Rintrah",
-            "Release Date": "May 12, 2022",
+            "ReleaseDate": "May 12, 2022",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/62/Hulkling_portrait.png/revision/latest?cb=20220607151539",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a3/Hulkling_featured.png/revision/latest?cb=20220607151550",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a3/Hulkling_featured.png/revision/latest?cb=20220607151550",
             "Champion": "Hulkling",
-            "Release Date": "June 16, 2022",
+            "ReleaseDate": "June 16, 2022",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1a/Wiccan_portrait.png/revision/latest?cb=20220607151512",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f2/Wiccan_featured.png/revision/latest?cb=20220607151521",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f2/Wiccan_featured.png/revision/latest?cb=20220607151521",
             "Champion": "Wiccan",
-            "Release Date": "June 30, 2022",
+            "ReleaseDate": "June 30, 2022",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4a/Valkyrie_portrait.png/revision/latest?cb=20230824220412",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3c/Valkyrie_featured.png/revision/latest?cb=20220708201822",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3c/Valkyrie_featured.png/revision/latest?cb=20220708201822",
             "Champion": "Valkyrie",
-            "Release Date": "July 28, 2022",
+            "ReleaseDate": "July 28, 2022",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b2/Gorr_portrait.png/revision/latest?cb=20220708201853",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/49/Gorr_featured.png/revision/latest?cb=20220708201842",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/49/Gorr_featured.png/revision/latest?cb=20220708201842",
             "Champion": "Gorr",
-            "Release Date": "July 14, 2022",
+            "ReleaseDate": "July 14, 2022",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5c/Galan_portrait.png/revision/latest?cb=20220817213037",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fb/Galan_featured.png/revision/latest?cb=20220817213022",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fb/Galan_featured.png/revision/latest?cb=20220817213022",
             "Champion": "Galan",
-            "Release Date": "August 11, 2022",
+            "ReleaseDate": "August 11, 2022",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2e/Quicksilver_portrait.png/revision/latest?cb=20220817213111",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Quicksilver_featured.png/revision/latest?cb=20220817213055",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Quicksilver_featured.png/revision/latest?cb=20220817213055",
             "Champion": "Quicksilver",
-            "Release Date": "August 26, 2022",
+            "ReleaseDate": "August 26, 2022",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5f/Titania_portrait.png/revision/latest?cb=20230824220108",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d6/Titania_featured.png/revision/latest?cb=20220911202020",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d6/Titania_featured.png/revision/latest?cb=20220911202020",
             "Champion": "Titania",
-            "Release Date": "September 15, 2022",
+            "ReleaseDate": "September 15, 2022",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5d/Iron_Man_%28Infamous%29_portrait.png/revision/latest?cb=20220911202035",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/11/Iron_Man_%28Infamous%29_featured.png/revision/latest?cb=20220911202052",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/11/Iron_Man_%28Infamous%29_featured.png/revision/latest?cb=20220911202052",
             "Champion": "Iron Man (Infamous)",
-            "Release Date": "September 29, 2022",
+            "ReleaseDate": "September 29, 2022",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e6/Spider-Man_%28Supreme%29_portrait.png/revision/latest?cb=20221012192822",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f9/Spider-Man_%28Supreme%29_featured.png/revision/latest?cb=20221012192839",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f9/Spider-Man_%28Supreme%29_featured.png/revision/latest?cb=20221012192839",
             "Champion": "Spider-Man (Supreme)",
-            "Release Date": "October 13, 2022",
+            "ReleaseDate": "October 13, 2022",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b4/Spot_portrait.png/revision/latest?cb=20221012192749",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/ff/Spot_featured.png/revision/latest?cb=20221012192801",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/ff/Spot_featured.png/revision/latest?cb=20221012192801",
             "Champion": "Spot",
-            "Release Date": "October 27, 2022",
+            "ReleaseDate": "October 27, 2022",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/87/Shuri_portrait.png/revision/latest?cb=20230824215831",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8e/Shuri_featured.png/revision/latest?cb=20221110205240",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8e/Shuri_featured.png/revision/latest?cb=20221110205240",
             "Champion": "Shuri",
-            "Release Date": "November 17, 2022",
+            "ReleaseDate": "November 17, 2022",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/02/Attuma_portrait.png/revision/latest?cb=20230824215959",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7e/Attuma_featured.png/revision/latest?cb=20221110205322",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7e/Attuma_featured.png/revision/latest?cb=20221110205322",
             "Champion": "Attuma",
-            "Release Date": "December 1, 2022",
+            "ReleaseDate": "December 1, 2022",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e8/Mantis_portrait.png/revision/latest?cb=20221209150046",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e3/Mantis_featured.png/revision/latest?cb=20221209150059",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e3/Mantis_featured.png/revision/latest?cb=20221209150059",
             "Champion": "Mantis",
-            "Release Date": "December 15, 2022",
+            "ReleaseDate": "December 15, 2022",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c5/Absorbing_Man_portrait.png/revision/latest?cb=20230110022321",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/04/Absorbing_Man_featured.png/revision/latest?cb=20230110022326",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/04/Absorbing_Man_featured.png/revision/latest?cb=20230110022326",
             "Champion": "Absorbing Man",
-            "Release Date": "January 19, 2023",
+            "ReleaseDate": "January 19, 2023",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/12/Baron_Zemo_portrait.png/revision/latest?cb=20230110022329",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/01/Baron_Zemo_featured.png/revision/latest?cb=20230110022337",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/01/Baron_Zemo_featured.png/revision/latest?cb=20230110022337",
             "Champion": "Baron Zemo",
-            "Release Date": "January 26, 2023",
+            "ReleaseDate": "January 26, 2023",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/68/Cassie_Lang_portrait.png/revision/latest?cb=20230224215706",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/36/Cassie_Lang_featured.png/revision/latest?cb=20230224215719",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/36/Cassie_Lang_featured.png/revision/latest?cb=20230224215719",
             "Champion": "Cassie Lang",
-            "Release Date": "February 16, 2023",
+            "ReleaseDate": "February 16, 2023",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cd/Ant-Man_%28Future%29_portrait.png/revision/latest?cb=20230224215655",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fc/Ant-Man_%28Future%29_featured.png/revision/latest?cb=20230224215629",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fc/Ant-Man_%28Future%29_featured.png/revision/latest?cb=20230224215629",
             "Champion": "Ant-Man (Future)",
-            "Release Date": "March 2, 2023",
+            "ReleaseDate": "March 2, 2023",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2c/Viv_Vision_portrait.png/revision/latest?cb=20230824212123",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/51/Viv_Vision_featured.png/revision/latest?cb=20230315102417",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/51/Viv_Vision_featured.png/revision/latest?cb=20230315102417",
             "Champion": "Viv Vision",
-            "Release Date": "March 16, 2023",
+            "ReleaseDate": "March 16, 2023",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/bc/Kate_Bishop_portrait.png/revision/latest?cb=20230824212305",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/df/Kate_Bishop_featured.png/revision/latest?cb=20230315102448",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/df/Kate_Bishop_featured.png/revision/latest?cb=20230315102448",
             "Champion": "Kate Bishop",
-            "Release Date": "March 30, 2023",
+            "ReleaseDate": "March 30, 2023",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/54/Darkhawk_portrait.png/revision/latest?cb=20230824231147",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fd/Darkhawk_featured.png/revision/latest?cb=20181205153634",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fd/Darkhawk_featured.png/revision/latest?cb=20181205153634",
             "Champion": "Darkhawk",
-            "Release Date": "December 20, 2018",
+            "ReleaseDate": "December 20, 2018",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/83/Doctor_Strange_portrait.png/revision/latest?cb=20150830061940",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/32/Doctor_Strange_featured.png/revision/latest?cb=20150723172534",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/32/Doctor_Strange_featured.png/revision/latest?cb=20150723172534",
             "Champion": "Doctor Strange",
-            "Release Date": "March 19, 2015",
+            "ReleaseDate": "March 19, 2015",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e0/Shocker_portrait.png/revision/latest?cb=20230824215709",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f1/Shocker_featured.png/revision/latest?cb=20230410205629",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f1/Shocker_featured.png/revision/latest?cb=20230410205629",
             "Champion": "Shocker",
-            "Release Date": "April 13, 2023",
+            "ReleaseDate": "April 13, 2023",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f2/Drax_portrait.png/revision/latest?cb=20150830065434",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/28/Drax_featured.png/revision/latest?cb=20150830065530",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/28/Drax_featured.png/revision/latest?cb=20150830065530",
             "Champion": "Drax",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/12/Sandman_portrait.png/revision/latest?cb=20230410205643",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6e/Sandman_featured.png/revision/latest?cb=20230410205657",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6e/Sandman_featured.png/revision/latest?cb=20230410205657",
             "Champion": "Sandman",
-            "Release Date": "April 27, 2023",
+            "ReleaseDate": "April 27, 2023",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/46/Black_Widow_portrait.png/revision/latest?cb=20150830061401",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1c/Black_Widow_featured.png/revision/latest?cb=20150728225921",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1c/Black_Widow_featured.png/revision/latest?cb=20150728225921",
             "Champion": "Black Widow",
-            "Release Date": "May 7, 2015",
+            "ReleaseDate": "May 7, 2015",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1d/Hawkeye_portrait.png/revision/latest?cb=20150830062124",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/57/Hawkeye_featured.png/revision/latest?cb=20150830062237",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/57/Hawkeye_featured.png/revision/latest?cb=20150830062237",
             "Champion": "Hawkeye",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d7/Hulk_portrait.png/revision/latest?cb=20151118002756",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1e/Hulk_featured.png/revision/latest?cb=20150825224301",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1e/Hulk_featured.png/revision/latest?cb=20150825224301",
             "Champion": "Hulk",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e3/Moondragon_portrait.png/revision/latest?cb=20230824222212",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d3/Moondragon_featured.png/revision/latest?cb=20230512151857",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d3/Moondragon_featured.png/revision/latest?cb=20230512151857",
             "Champion": "Moondragon",
-            "Release Date": "May 11, 2023",
+            "ReleaseDate": "May 11, 2023",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/56/Punisher_portrait.png/revision/latest?cb=20150830074832",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/72/Punisher_featured.png/revision/latest?cb=20150830074855",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/72/Punisher_featured.png/revision/latest?cb=20150830074855",
             "Champion": "Punisher",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/11/Luke_Cage_portrait.png/revision/latest?cb=20151124224025",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e9/Luke_Cage_featured.png/revision/latest?cb=20151209121809",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e9/Luke_Cage_featured.png/revision/latest?cb=20151209121809",
             "Champion": "Luke Cage",
-            "Release Date": "November 26, 2015",
+            "ReleaseDate": "November 26, 2015",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/38/Juggernaut_portrait.png/revision/latest?cb=20150830074406",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Juggernaut_featured.png/revision/latest?cb=20150830074431",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Juggernaut_featured.png/revision/latest?cb=20150830074431",
             "Champion": "Juggernaut",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/08/Kang_the_Conqueror_portrait.png/revision/latest?cb=20150830174024",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9f/Kang_the_Conqueror_featured.png/revision/latest?cb=20150830174049",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9f/Kang_the_Conqueror_featured.png/revision/latest?cb=20150830174049",
             "Champion": "Kang the Conqueror",
-            "Release Date": "December 10, 2014",
+            "ReleaseDate": "December 10, 2014",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/51/Adam_Warlock_portrait.png/revision/latest?cb=20230824212613",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7d/Adam_Warlock_featured.png/revision/latest?cb=20230512151837",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7d/Adam_Warlock_featured.png/revision/latest?cb=20230512151837",
             "Champion": "Adam Warlock",
-            "Release Date": "May 25, 2023",
+            "ReleaseDate": "May 25, 2023",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/64/Dani_Moonstar_portrait.png/revision/latest?cb=20230824215234",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/82/Dani_Moonstar_featured.png/revision/latest?cb=20230624204739",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/82/Dani_Moonstar_featured.png/revision/latest?cb=20230624204739",
             "Champion": "Dani Moonstar",
-            "Release Date": "June 15, 2023",
+            "ReleaseDate": "June 15, 2023",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e1/Lady_Deathstrike_portrait.png/revision/latest?cb=20230624204719",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/63/Lady_Deathstrike_featured.png/revision/latest?cb=20230624204646",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/63/Lady_Deathstrike_featured.png/revision/latest?cb=20230624204646",
             "Champion": "Lady Deathstrike",
-            "Release Date": "June 29, 2023",
+            "ReleaseDate": "June 29, 2023",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e5/Night_Thrasher_portrait.png/revision/latest?cb=20181205153201",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/ed/Night_Thrasher_featured.png/revision/latest?cb=20181205153542",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/ed/Night_Thrasher_featured.png/revision/latest?cb=20181205153542",
             "Champion": "Night Thrasher",
-            "Release Date": "December 6, 2018",
+            "ReleaseDate": "December 6, 2018",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c6/Spider-Gwen_portrait.png/revision/latest?cb=20151118003158",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e0/Spider-Gwen_featured.png/revision/latest?cb=20151121224059",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e0/Spider-Gwen_featured.png/revision/latest?cb=20151121224059",
             "Champion": "Spider-Gwen",
-            "Release Date": "November 12, 2015",
+            "ReleaseDate": "November 12, 2015",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/76/Silk_portrait.png/revision/latest?cb=20230824210452",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/58/Silk_featured.png/revision/latest?cb=20230805193914",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/58/Silk_featured.png/revision/latest?cb=20230805193914",
             "Champion": "Silk",
-            "Release Date": "July 20, 2023",
+            "ReleaseDate": "July 20, 2023",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a2/Kindred_portrait.png/revision/latest?cb=20230805193931",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0b/Kindred_featured.png/revision/latest?cb=20230805193949",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0b/Kindred_featured.png/revision/latest?cb=20230805193949",
             "Champion": "Kindred",
-            "Release Date": "August 3, 2023",
+            "ReleaseDate": "August 3, 2023",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/95/Vox_portrait.png/revision/latest?cb=20230824212013",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e2/Vox_featured.png/revision/latest?cb=20230814105447",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e2/Vox_featured.png/revision/latest?cb=20230814105447",
             "Champion": "Vox",
-            "Release Date": "August 31, 2023",
+            "ReleaseDate": "August 31, 2023",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e7/Gladiator_portrait.png/revision/latest?cb=20231115112842",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/56/Gladiator_featured.png/revision/latest?cb=20230928024239",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/56/Gladiator_featured.png/revision/latest?cb=20230928024239",
             "Champion": "Gladiator",
-            "Release Date": "September 14, 2023",
+            "ReleaseDate": "September 14, 2023",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d3/Photon_portrait.png/revision/latest?cb=20230824231549",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/74/Photon_featured.png/revision/latest?cb=20230814105601",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/74/Photon_featured.png/revision/latest?cb=20230814105601",
             "Champion": "Photon",
-            "Release Date": "August 17, 2023",
+            "ReleaseDate": "August 17, 2023",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/43/Werewolf_By_Night_portrait.png/revision/latest?cb=20231115112333",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e1/Werewolf_By_Night_featured.png/revision/latest?cb=20231008215914",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e1/Werewolf_By_Night_featured.png/revision/latest?cb=20231008215914",
             "Champion": "Werewolf By Night",
-            "Release Date": "October 27, 2023",
+            "ReleaseDate": "October 27, 2023",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1f/Morbius_portrait.png/revision/latest?cb=20231115103807",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/ce/Morbius_featured.png/revision/latest?cb=20231008215944",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/ce/Morbius_featured.png/revision/latest?cb=20231008215944",
             "Champion": "Morbius",
-            "Release Date": "October 13, 2023",
+            "ReleaseDate": "October 13, 2023",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7a/Maestro_portrait.png/revision/latest?cb=20160108233515",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4f/Maestro_featured.png/revision/latest?cb=20170219145028",
-            "Champion": "Maestro (Cosmic)",
-            "Release Date": "November 15, 2023",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4f/Maestro_featured.png/revision/latest?cb=20170219145028",
+            "Champion": "Maestro",
+            "ReleaseDate": "November 15, 2023",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8b/Kushala_portrait.png/revision/latest?cb=20231115112203",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f7/Kushala_featured.png/revision/latest?cb=20231115230731",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f7/Kushala_featured.png/revision/latest?cb=20231115230731",
             "Champion": "Kushala",
-            "Release Date": "November 16, 2023",
+            "ReleaseDate": "November 16, 2023",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/46/Chee%27ilth_portrait.png/revision/latest?cb=20231115230751",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/de/Chee%27ilth_featured.png/revision/latest?cb=20231115230811",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/de/Chee%27ilth_featured.png/revision/latest?cb=20231115230811",
             "Champion": "Chee'ilth",
-            "Release Date": "November 30, 2023",
+            "ReleaseDate": "November 30, 2023",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8a/Bullseye_portrait.png/revision/latest?cb=20240205233403",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/38/Bullseye_featured.png/revision/latest?cb=20240113210553",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/38/Bullseye_featured.png/revision/latest?cb=20240113210553",
             "Champion": "Bullseye",
-            "Release Date": "January 18, 2024",
+            "ReleaseDate": "January 18, 2024",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0d/White_Tiger_portrait.png/revision/latest?cb=20240205233654",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7c/White_Tiger_featured.png/revision/latest?cb=20240113210527",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7c/White_Tiger_featured.png/revision/latest?cb=20240113210527",
             "Champion": "White Tiger",
-            "Release Date": "February 1, 2024",
+            "ReleaseDate": "February 1, 2024",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/86/Onslaught_portrait.png/revision/latest?cb=20231208154140",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c7/Onslaught_featured.png/revision/latest?cb=20231208154150",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c7/Onslaught_featured.png/revision/latest?cb=20231208154150",
             "Champion": "Onslaught",
-            "Release Date": "December 14, 2023",
+            "ReleaseDate": "December 14, 2023",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/63/Guillotine_%28Deathless%29_portrait.png/revision/latest?cb=20231208154204",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8e/Guillotine_%28Deathless%29_featured.png/revision/latest?cb=20231208154216",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8e/Guillotine_%28Deathless%29_featured.png/revision/latest?cb=20231208154216",
             "Champion": "Guillotine (Deathless)",
-            "Release Date": "December 20, 2023",
+            "ReleaseDate": "December 20, 2023",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/57/Dust_portrait.png/revision/latest?cb=20240228025207",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a1/Dust_featured.png/revision/latest?cb=20240228025302",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a1/Dust_featured.png/revision/latest?cb=20240228025302",
             "Champion": "Dust",
-            "Release Date": "February 29, 2024",
+            "ReleaseDate": "February 29, 2024",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/40/Ironheart_portrait.png/revision/latest?cb=20240228025344",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7d/Ironheart_featured.png/revision/latest?cb=20240228025418",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7d/Ironheart_featured.png/revision/latest?cb=20240228025418",
             "Champion": "Ironheart",
-            "Release Date": "February 15, 2024",
+            "ReleaseDate": "February 15, 2024",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/bd/The_Serpent_portrait.png/revision/latest?cb=20240412084826",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d4/The_Serpent_featured.png/revision/latest?cb=20240317204151",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d4/The_Serpent_featured.png/revision/latest?cb=20240317204151",
             "Champion": "The Serpent",
-            "Release Date": "March 14, 2024",
+            "ReleaseDate": "March 14, 2024",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/31/The_Destroyer_portrait.png/revision/latest?cb=20240317204139",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d3/The_Destroyer_featured.png/revision/latest?cb=20240317204127",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d3/The_Destroyer_featured.png/revision/latest?cb=20240317204127",
             "Champion": "The Destroyer",
-            "Release Date": "March 28, 2024",
+            "ReleaseDate": "March 28, 2024",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/aa/King_Groot_%28Deathless%29_portrait.png/revision/latest?cb=20240406082835",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c7/King_Groot_%28Deathless%29_featured.png/revision/latest?cb=20240406082855",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c7/King_Groot_%28Deathless%29_featured.png/revision/latest?cb=20240406082855",
             "Champion": "King Groot (Deathless)",
-            "Release Date": "April 4, 2024",
+            "ReleaseDate": "April 4, 2024",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b3/Spider-Punk_portrait.png/revision/latest?cb=20240412085057",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Spider-Punk_featured.png/revision/latest?cb=20240406082923",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Spider-Punk_featured.png/revision/latest?cb=20240406082923",
             "Champion": "Spider-Punk",
-            "Release Date": "April 25, 2024",
+            "ReleaseDate": "April 25, 2024",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4d/Prowler_portrait.png/revision/latest?cb=20240412085333",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0e/Prowler_featured.png/revision/latest?cb=20240406082947",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0e/Prowler_featured.png/revision/latest?cb=20240406082947",
             "Champion": "Prowler",
-            "Release Date": "April 11, 2024",
+            "ReleaseDate": "April 11, 2024",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8a/Negasonic_Teenage_Warhead_portrait.png/revision/latest?cb=20240509201251",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f6/Negasonic_Teenage_Warhead_featured.png/revision/latest?cb=20240509201242",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f6/Negasonic_Teenage_Warhead_featured.png/revision/latest?cb=20240509201242",
             "Champion": "Negasonic Teenage Warhead",
-            "Release Date": "May 16, 2024",
+            "ReleaseDate": "May 16, 2024",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f6/Silver_Sable_portrait.png/revision/latest?cb=20240909013727",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/13/Silver_Sable_featured.png/revision/latest?cb=20240509201301",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/13/Silver_Sable_featured.png/revision/latest?cb=20240509201301",
             "Champion": "Silver Sable",
-            "Release Date": "May 30, 2024",
+            "ReleaseDate": "May 30, 2024",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f3/Vision_%28Deathless%29_portrait.png/revision/latest?cb=20240713055050",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7a/Vision_%28Deathless%29_featured.png/revision/latest?cb=20240729231852",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7a/Vision_%28Deathless%29_featured.png/revision/latest?cb=20240729231852",
             "Champion": "Vision (Deathless)",
-            "Release Date": "July 20, 2024",
+            "ReleaseDate": "July 20, 2024",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/72/Arcade_portrait.png/revision/latest?cb=20240617191516",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/bc/Arcade_featured.png/revision/latest?cb=20240617191531",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/bc/Arcade_featured.png/revision/latest?cb=20240617191531",
             "Champion": "Arcade",
-            "Release Date": "June 13, 2024",
+            "ReleaseDate": "June 13, 2024",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/ae/Northstar_portrait.png/revision/latest?cb=20240617191257",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a0/Northstar_featured.png/revision/latest?cb=20240617191446",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a0/Northstar_featured.png/revision/latest?cb=20240617191446",
             "Champion": "Northstar",
-            "Release Date": "June 27, 2024",
+            "ReleaseDate": "June 27, 2024",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/83/Patriot_portrait.png/revision/latest?cb=20240730014323",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/86/Patriot_featured.png/revision/latest?cb=20240730014541",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/86/Patriot_featured.png/revision/latest?cb=20240730014541",
             "Champion": "Patriot",
-            "Release Date": "July 18, 2024",
+            "ReleaseDate": "July 18, 2024",
             "Class": "Skill"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/42/The_Leader_portrait.png/revision/latest?cb=20240730014448",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/33/The_Leader_featured.png/revision/latest?cb=20240730015230",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/33/The_Leader_featured.png/revision/latest?cb=20240730015230",
             "Champion": "The Leader",
-            "Release Date": "August 1, 2024",
+            "ReleaseDate": "August 1, 2024",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a2/Beta_Ray_Bill_portrait.png/revision/latest?cb=20240809134212",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/23/Beta_Ray_Bill_featured.png/revision/latest?cb=20240825011831",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/23/Beta_Ray_Bill_featured.png/revision/latest?cb=20240825011831",
             "Champion": "Beta Ray Bill",
-            "Release Date": "August 15, 2024",
+            "ReleaseDate": "August 15, 2024",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/34/Enchantress_portrait.png/revision/latest?cb=20240809135452",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/17/Enchantress_featured.png/revision/latest?cb=20240825011908",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/17/Enchantress_featured.png/revision/latest?cb=20240825011908",
             "Champion": "Enchantress",
-            "Release Date": "August 29, 2024",
+            "ReleaseDate": "August 29, 2024",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/90/Count_Nefaria_portrait.png/revision/latest?cb=20241008062135",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/04/Count_Nefaria_featured.png/revision/latest?cb=20241006203211",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/04/Count_Nefaria_featured.png/revision/latest?cb=20241006203211",
             "Champion": "Count Nefaria",
-            "Release Date": "September 12, 2024",
+            "ReleaseDate": "September 12, 2024",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b0/Shathra_portrait.png/revision/latest?cb=20241006204156",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1b/Shathra_featured.png/revision/latest?cb=20241006203229",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1b/Shathra_featured.png/revision/latest?cb=20241006203229",
             "Champion": "Shathra",
-            "Release Date": "September 26, 2024",
+            "ReleaseDate": "September 26, 2024",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b5/Scream_portrait.png/revision/latest?cb=20241009004744",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/25/Scream_featured.png/revision/latest?cb=20241010211613",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/25/Scream_featured.png/revision/latest?cb=20241010211613",
             "Champion": "Scream",
-            "Release Date": "October 17, 2024",
+            "ReleaseDate": "October 17, 2024",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/29/Jack_O%27Lantern_portrait.png/revision/latest?cb=20241009004842",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2d/Jack_O%27Lantern_featured.png/revision/latest?cb=20241010211956",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2d/Jack_O%27Lantern_featured.png/revision/latest?cb=20241010211956",
             "Champion": "Jack O'Lantern",
-            "Release Date": "October 31, 2024",
+            "ReleaseDate": "October 31, 2024",
             "Class": "Tech"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3d/She-Hulk_%28Deathless%29_portrait.png/revision/latest?cb=20241029142306",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5f/She-Hulk_%28Deathless%29_featured.png/revision/latest?cb=20241029142256",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5f/She-Hulk_%28Deathless%29_featured.png/revision/latest?cb=20241029142256",
             "Champion": "She-Hulk (Deathless)",
-            "Release Date": "December 20, 2024",
+            "ReleaseDate": "December 20, 2024",
             "Class": "Science"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/72/Dazzler_portrait.png/revision/latest?cb=20241114212621",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/40/Dazzler_featured.png/revision/latest?cb=20241114212612",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/40/Dazzler_featured.png/revision/latest?cb=20241114212612",
             "Champion": "Dazzler",
-            "Release Date": "November 28, 2024",
+            "ReleaseDate": "November 28, 2024",
             "Class": "Mutant"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3d/Spiral_portrait.png/revision/latest?cb=20241114212640",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/91/Spiral_featured.png/revision/latest?cb=20241114212632",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/91/Spiral_featured.png/revision/latest?cb=20241114212632",
             "Champion": "Spiral",
-            "Release Date": "November 14, 2024",
+            "ReleaseDate": "November 14, 2024",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0c/Henchpool_portrait.png/revision/latest?cb=20241114230447",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/74/Henchpool_featured.png/revision/latest?cb=20241221215434",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/74/Henchpool_featured.png/revision/latest?cb=20241221215434",
             "Champion": "Henchpool",
-            "Release Date": "November 13, 2024",
+            "ReleaseDate": "November 13, 2024",
             "Class": "Cosmic /Tech /Mutant /Skill /Science /Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/59/Isophyne_portrait.png/revision/latest?cb=20241217032559",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c8/Isophyne_featured.png/revision/latest?cb=20241221214511",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c8/Isophyne_featured.png/revision/latest?cb=20241221214511",
             "Champion": "Isophyne",
-            "Release Date": "December 19, 2024",
+            "ReleaseDate": "December 19, 2024",
             "Class": "Mystic"
         },
         {
             "Profile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6d/Thanos_%28Deathless%29_portrait.png/revision/latest?cb=20241221214531",
-            "": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2d/Thanos_%28Deathless%29_featured.png/revision/latest?cb=20241221214522",
+            "fullChampionProfile": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2d/Thanos_%28Deathless%29_featured.png/revision/latest?cb=20241221214522",
             "Champion": "Thanos (Deathless)",
-            "Release Date": "Coming in January 2025",
+            "ReleaseDate": "Coming in January 2025",
             "Class": "Cosmic"
         },
         {
             "Profile": "https://marvel-contestofchampions.fandom.com/wiki/Special:Upload?wpDestFile=Okoye_portrait.png",
-            "": "https://marvel-contestofchampions.fandom.com/wiki/Special:Upload?wpDestFile=Okoye_featured.png",
+            "fullChampionProfile": "https://marvel-contestofchampions.fandom.com/wiki/Special:Upload?wpDestFile=Okoye_featured.png",
             "Champion": "Okoye",
-            "Release Date": "Coming in January 2025",
+            "ReleaseDate": "Coming in January 2025",
             "Class": "Skill"
         }
     ]

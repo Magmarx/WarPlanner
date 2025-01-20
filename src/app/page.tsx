@@ -1,167 +1,178 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Image from "next/image";
+import Link from 'next/link';
 import Tesseract, { ImageLike } from 'tesseract.js';
+import { collection, addDoc, Timestamp } from 'firebase/firestore';
+import { db } from '../firebase/config';
 import champList from '../assets/champList.json';
 
-const extractChampionsFromText = (text: string, champList: any[]) => {
-  const foundChampions = champList.filter(champ => 
-    text.toLowerCase().includes(champ.Champion.toLowerCase())
-  );
-  return foundChampions;
+interface Champion {
+    Profile: string;
+    fullChampionProfile: string;
+    Champion: string;
+    ReleaseDate: string;
+    Class: string;
+}
+
+const extractChampionsFromText = (text: string, champList: Champion[]): Champion[] => {
+    /**
+     * List of champs that known to not be recognized (Will be a good idea for a suggestion feature)
+     * Spider-Ham
+     * 
+     * Another found issue is that sometimes it duplicates entries with
+     * similar named champs
+     * Omega Sentinel -> Sentinel
+     * Man-Thing -> Thing
+     * Guillotine 2099 -> Guillotine
+     * 
+     * With Using Tesseract this might be unavoidable
+     */
+    const UpperCaseText = text.toUpperCase();
+    return champList.filter(champion => 
+        UpperCaseText.includes(champion.Champion.toUpperCase())
+    );
 };
 
 export default function Home() {
-    const [image, setImage] = useState(null);
+    const [mounted, setMounted] = useState(false);
+    const [image, setImage] = useState<File | null>(null);
+    const [foundChampions, setFoundChampions] = useState<Champion[]>([]);
+    const [isProcessing, setIsProcessing] = useState(false);
+    const [error, setError] = useState<string | null>(null);
 
-    const handleImageChange = (event) => {
-        const file = event.target.files[0];
-        // Encode the file using the FileReader API
-        const reader = new FileReader();
-        reader.onloadend = () => {
-            console.log(reader.result);
-            const base64 = reader.result as ImageLike ;
-            Tesseract.recognize(
-                base64,
-                'eng',
-                {
-                  logger: info => console.log(info) // Log progress
-                }
-              ).then(({ data: { text } }) => {
-                console.log(champList.champList);
-                const foundChampions = extractChampionsFromText(text, champList.champList);
-                console.log('Found champions:', foundChampions);
-                return foundChampions;
-              });
-            // Logs data:<type>;base64,wL2dvYWwgbW9yZ...
-        };
-        reader.readAsDataURL(file);
-        setImage(file);
-    };
+    useEffect(() => {
+        setMounted(true);
+    }, []);
 
-    const handleSubmit = async (event) => {
-        event.preventDefault();
-
-        const formData = new FormData();
-        formData.append('image', image);
-
+    const storeChampionsInFirebase = async (champions: Champion[]) => {
         try {
-            const response = await fetch('/api/upload', {
-                method: 'POST',
-                body: formData,
-            });
-
-            if (!response.ok) {
-                throw new Error('Failed to upload image');
-            }
-
-            const data = await response.json();
-            console.log('Upload successful:', data);
+            const warData = {
+                champions: champions,
+                timestamp: Timestamp.now(),
+                imageProcessed: true
+            };
+            
+            const docRef = await addDoc(collection(db, 'wars'), warData);
+            console.log('War data stored with ID: ', docRef.id);
+            return docRef.id;
         } catch (error) {
-            console.error('Error uploading image:', error);
+            console.error('Error storing war data: ', error);
+            throw error;
         }
     };
-    return (
-        <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-            <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-                <Image
-                    className="dark:invert"
-                    src="/next.svg"
-                    alt="Next.js logo"
-                    width={180}
-                    height={38}
-                    priority
-                />
-                <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-                    <li className="mb-2">
-                        Get started by editing{" "}
-                        <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-                            src/app/page.tsx
-                        </code>
-                        .
-                    </li>
-                    <li>Save and see your changes instantly.</li>
-                </ol>
 
-                <div className="flex gap-4 items-center flex-col sm:flex-row">
-                    <a
-                        className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-                        href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                    >
-                        <Image
-                            className="dark:invert"
-                            src="/vercel.svg"
-                            alt="Vercel logomark"
-                            width={20}
-                            height={20}
+    const handleImageChange = async (event: React.ChangeEvent<HTMLInputElement>) => {
+        const file = event.target.files?.[0];
+        if (!file) return;
+        
+        setIsProcessing(true);
+        setError(null);
+        
+        try {
+            const reader = new FileReader();
+            reader.onloadend = async () => {
+                const base64 = reader.result as ImageLike;
+                const { data: { text } } = await Tesseract.recognize(
+                    base64,
+                    'eng',
+                    {
+                        logger: info => console.log(info)
+                    }
+                );
+                
+                const champions = extractChampionsFromText(text, champList.champList);
+                setFoundChampions(champions);
+                
+                if (champions.length > 0) {
+                    await storeChampionsInFirebase(champions);
+                }
+                
+                setIsProcessing(false);
+            };
+            
+            reader.onerror = () => {
+                setError('Error reading file');
+                setIsProcessing(false);
+            };
+            
+            reader.readAsDataURL(file);
+            setImage(file);
+        } catch (error) {
+            setError('Error processing image');
+            setIsProcessing(false);
+            console.error('Error:', error);
+        }
+    };
+
+    if (!mounted) {
+        return null;
+    }
+
+    return (
+        <div className="min-h-screen p-8">
+            <div className="max-w-4xl mx-auto">
+                <nav className="mb-8 flex justify-between items-center">
+                    <h1 className="text-2xl font-bold text-black">War Planner</h1>
+                    <Link href="/champions" className="text-blue-500 hover:underline">
+                        View All Champions →
+                    </Link>
+                </nav>
+
+                <div className="bg-white p-6 rounded-lg shadow-md">
+                    <h2 className="text-xl font-semibold mb-4 text-black">Upload Screenshot</h2>
+                    <div className="mb-6">
+                        <input 
+                            type="file" 
+                            accept="image/*" 
+                            onChange={handleImageChange}
+                            disabled={isProcessing}
+                            className="block w-full text-sm text-gray-500
+                                file:mr-4 file:py-2 file:px-4
+                                file:rounded-full file:border-0
+                                file:text-sm file:font-semibold
+                                file:bg-blue-50 file:text-blue-700
+                                hover:file:bg-blue-100
+                                disabled:opacity-50"
                         />
-                        Deploy now
-                    </a>
-                    <a
-                        className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-                        href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                    >
-                        Read our docs
-                    </a>
-                    <a> Like </a>
+                    </div>
+
+                    {isProcessing && (
+                        <div className="text-center py-4">
+                            <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500 mx-auto"></div>
+                            <p className="mt-2 text-gray-600">Processing image...</p>
+                        </div>
+                    )}
+
+                    {error && (
+                        <div className="bg-red-50 text-red-500 p-3 rounded mb-4">
+                            {error}
+                        </div>
+                    )}
+
+                    {foundChampions.length > 0 && !isProcessing && (
+                        <div className="mt-6">
+                            <h3 className="text-lg font-semibold mb-3 text-black">Found Champions:</h3>
+                            <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+                                {foundChampions.map((champion, index) => (
+                                    <div key={index} className="flex items-center space-x-2 p-2 bg-gray-50 rounded">
+                                        <div className="relative w-8 h-8">
+                                            <Image 
+                                                src={champion.Profile}
+                                                alt={champion.Champion}
+                                                fill
+                                                className="rounded-full object-cover"
+                                            />
+                                        </div>
+                                        <span className="text-black">{champion.Champion}</span>
+                                    </div>
+                                ))}
+                            </div>
+                        </div>
+                    )}
                 </div>
-                <form onSubmit={handleSubmit}>
-                    <input type="file" accept="image/*" onChange={handleImageChange} />
-                    <button type="submit">Upload</button>
-                </form>
-            </main>
-            <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-                <a
-                    className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-                    href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    <Image
-                        aria-hidden
-                        src="/file.svg"
-                        alt="File icon"
-                        width={16}
-                        height={16}
-                    />
-                    Learn
-                </a>
-                <a
-                    className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-                    href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    <Image
-                        aria-hidden
-                        src="/window.svg"
-                        alt="Window icon"
-                        width={16}
-                        height={16}
-                    />
-                    Examples
-                </a>
-                <a
-                    className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-                    href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    <Image
-                        aria-hidden
-                        src="/globe.svg"
-                        alt="Globe icon"
-                        width={16}
-                        height={16}
-                    />
-                    Go to nextjs.org →
-                </a>
-            </footer>
+            </div>
         </div>
     );
 }
