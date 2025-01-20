@@ -4,6 +4,7 @@ import React, { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import champList from '../../assets/champList.json';
+import { cleanImageUrl } from '../../utils/imageUtils';
 
 interface Champion {
     Champion: string;
@@ -46,7 +47,7 @@ export default function ChampionsPage() {
                                     <div className="flex items-center text-black">
                                         <div className="relative w-8 h-8 mr-3">
                                             <Image 
-                                                src={champion.Profile}
+                                                src={cleanImageUrl(champion.Profile)}
                                                 alt={champion.Champion}
                                                 fill
                                                 className="rounded-full object-cover"

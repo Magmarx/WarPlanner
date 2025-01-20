@@ -1,0 +1,18 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Allow read/write access to war-related collections
+    match /wars/{warId} {
+      allow read, write: if true;
+    }
+    match /champions/{championId} {
+      allow read, write: if true;
+    }
+    
+    // Default rule for all other collections
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

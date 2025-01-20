@@ -1,7 +1,9 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'export',
   images: {
+    unoptimized: true,
+    domains: ['static.wikia.nocookie.net', 'marvel-contestofchampions.fandom.com'],
     remotePatterns: [
       {
         protocol: 'https',

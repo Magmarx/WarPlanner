@@ -5,8 +5,9 @@ import Image from "next/image";
 import Link from 'next/link';
 import Tesseract, { ImageLike } from 'tesseract.js';
 import { collection, addDoc, Timestamp } from 'firebase/firestore';
-import { db } from '../firebase/config';
+import { db } from '../lib/firebase';
 import champList from '../assets/champList.json';
+import { cleanImageUrl } from '../utils/imageUtils';
 
 interface Champion {
     Profile: string;
@@ -37,7 +38,6 @@ const extractChampionsFromText = (text: string, champList: Champion[]): Champion
 
 export default function Home() {
     const [mounted, setMounted] = useState(false);
-    const [image, setImage] = useState<File | null>(null);
     const [foundChampions, setFoundChampions] = useState<Champion[]>([]);
     const [isProcessing, setIsProcessing] = useState(false);
     const [error, setError] = useState<string | null>(null);
@@ -85,9 +85,9 @@ export default function Home() {
                 const champions = extractChampionsFromText(text, champList.champList);
                 setFoundChampions(champions);
                 
-                if (champions.length > 0) {
-                    await storeChampionsInFirebase(champions);
-                }
+                // if (champions.length > 0) {
+                //     await storeChampionsInFirebase(champions);
+                // }
                 
                 setIsProcessing(false);
             };
@@ -98,7 +98,6 @@ export default function Home() {
             };
             
             reader.readAsDataURL(file);
-            setImage(file);
         } catch (error) {
             setError('Error processing image');
             setIsProcessing(false);
@@ -159,10 +158,11 @@ export default function Home() {
                                     <div key={index} className="flex items-center space-x-2 p-2 bg-gray-50 rounded">
                                         <div className="relative w-8 h-8">
                                             <Image 
-                                                src={champion.Profile}
+                                                src={cleanImageUrl(champion.Profile)}
                                                 alt={champion.Champion}
                                                 fill
                                                 className="rounded-full object-cover"
+                                                unoptimized
                                             />
                                         </div>
                                         <span className="text-black">{champion.Champion}</span>
